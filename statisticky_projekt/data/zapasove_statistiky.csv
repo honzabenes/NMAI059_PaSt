@@ -1,0 +1,2189 @@
+game_id,Domaci,Hoste,home_goals,away_goals,Prvni_gol_tym,Vitez_zapasu
+2019020001,Toronto,Ottawa,5,3,Toronto,Toronto
+2019020002,St Louis,Washington,2,3,St Louis,Washington
+2019020003,Edmonton,Vancouver,3,2,Vancouver,Edmonton
+2019020004,Vegas,San Jose,4,1,Vegas,Vegas
+2019020001,Toronto,Ottawa,5,3,Toronto,Toronto
+2019020002,St Louis,Washington,2,3,St Louis,Washington
+2019020003,Edmonton,Vancouver,3,2,Vancouver,Edmonton
+2019020004,Vegas,San Jose,4,1,Vegas,Vegas
+2019020005,Tampa Bay,Florida,5,2,Florida,Tampa Bay
+2019020006,NY Rangers,Winnipeg,6,4,Winnipeg,NY Rangers
+2019020007,Pittsburgh,Buffalo,1,3,Pittsburgh,Buffalo
+2019020008,Carolina,Montreal,4,3,Carolina,Carolina
+2019020009,Nashville,Minnesota,5,2,Nashville,Nashville
+2019020010,Dallas,Boston,1,2,Dallas,Boston
+2019020011,Colorado,Calgary,5,3,Calgary,Colorado
+2019020012,Anaheim,Arizona,2,1,Arizona,Anaheim
+2019020005,Tampa Bay,Florida,5,2,Florida,Tampa Bay
+2019020006,NY Rangers,Winnipeg,6,4,Winnipeg,NY Rangers
+2019020007,Pittsburgh,Buffalo,1,3,Pittsburgh,Buffalo
+2019020008,Carolina,Montreal,4,3,Carolina,Carolina
+2019020009,Nashville,Minnesota,5,2,Nashville,Nashville
+2019020010,Dallas,Boston,1,2,Dallas,Boston
+2019020011,Colorado,Calgary,5,3,Calgary,Colorado
+2019020012,Anaheim,Arizona,2,1,Arizona,Anaheim
+2019020016,Philadelphia,Chicago,4,3,Philadelphia,Philadelphia
+2019020013,New Jersey,Winnipeg,4,5,New Jersey,Winnipeg
+2019020014,NY Islanders,Washington,1,2,Washington,Washington
+2019020015,Columbus,Toronto,1,4,Toronto,Toronto
+2019020017,San Jose,Vegas,1,5,Vegas,Vegas
+2019020016,Philadelphia,Chicago,4,3,Philadelphia,Philadelphia
+2019020013,New Jersey,Winnipeg,4,5,New Jersey,Winnipeg
+2019020014,NY Islanders,Washington,1,2,Washington,Washington
+2019020015,Columbus,Toronto,1,4,Toronto,Toronto
+2019020017,San Jose,Vegas,1,5,Vegas,Vegas
+2019020018,Buffalo,New Jersey,7,2,Buffalo,Buffalo
+2019020019,Toronto,Montreal,5,6,Toronto,Montreal
+2019020020,Ottawa,NY Rangers,1,4,NY Rangers,NY Rangers
+2019020021,Florida,Tampa Bay,4,3,Florida,Florida
+2019020022,Pittsburgh,Columbus,7,2,Pittsburgh,Pittsburgh
+2019020023,Washington,Carolina,2,3,Washington,Carolina
+2019020024,St Louis,Dallas,3,2,Dallas,St Louis
+2019020025,Nashville,Detroit,3,5,Nashville,Detroit
+2019020027,Arizona,Boston,0,1,Boston,Boston
+2019020026,Colorado,Minnesota,4,2,Minnesota,Colorado
+2019020030,Anaheim,San Jose,3,1,San Jose,Anaheim
+2019020028,Calgary,Vancouver,3,0,Calgary,Calgary
+2019020029,Edmonton,Los Angeles,6,5,Edmonton,Edmonton
+2019020018,Buffalo,New Jersey,7,2,Buffalo,Buffalo
+2019020019,Toronto,Montreal,5,6,Toronto,Montreal
+2019020020,Ottawa,NY Rangers,1,4,NY Rangers,NY Rangers
+2019020021,Florida,Tampa Bay,4,3,Florida,Florida
+2019020022,Pittsburgh,Columbus,7,2,Pittsburgh,Pittsburgh
+2019020023,Washington,Carolina,2,3,Washington,Carolina
+2019020024,St Louis,Dallas,3,2,Dallas,St Louis
+2019020025,Nashville,Detroit,3,5,Nashville,Detroit
+2019020027,Arizona,Boston,0,1,Boston,Boston
+2019020026,Colorado,Minnesota,4,2,Minnesota,Colorado
+2019020030,Anaheim,San Jose,3,1,San Jose,Anaheim
+2019020028,Calgary,Vancouver,3,0,Calgary,Calgary
+2019020029,Edmonton,Los Angeles,6,5,Edmonton,Edmonton
+2019020031,Carolina,Tampa Bay,4,3,Carolina,Carolina
+2019020032,Detroit,Dallas,4,3,Detroit,Detroit
+2019020033,NY Islanders,Winnipeg,4,1,NY Islanders,NY Islanders
+2019020031,Carolina,Tampa Bay,4,3,Carolina,Carolina
+2019020032,Detroit,Dallas,4,3,Detroit,Detroit
+2019020033,NY Islanders,Winnipeg,4,1,NY Islanders,NY Islanders
+2019020034,Toronto,St Louis,2,3,St Louis,St Louis
+2019020035,Columbus,Buffalo,4,3,Columbus,Columbus
+2019020034,Toronto,St Louis,2,3,St Louis,St Louis
+2019020035,Columbus,Buffalo,4,3,Columbus,Columbus
+2019020036,Florida,Carolina,3,6,Carolina,Carolina
+2019020037,NY Islanders,Edmonton,2,5,Edmonton,Edmonton
+2019020038,Pittsburgh,Winnipeg,1,4,Winnipeg,Winnipeg
+2019020039,Washington,Dallas,3,4,Dallas,Dallas
+2019020040,Detroit,Anaheim,1,3,Detroit,Anaheim
+2019020041,Nashville,San Jose,5,2,Nashville,Nashville
+2019020042,Calgary,Los Angeles,3,4,Los Angeles,Los Angeles
+2019020043,Vegas,Boston,3,4,Boston,Boston
+2019020036,Florida,Carolina,3,6,Carolina,Carolina
+2019020037,NY Islanders,Edmonton,2,5,Edmonton,Edmonton
+2019020038,Pittsburgh,Winnipeg,1,4,Winnipeg,Winnipeg
+2019020039,Washington,Dallas,3,4,Dallas,Dallas
+2019020040,Detroit,Anaheim,1,3,Detroit,Anaheim
+2019020041,Nashville,San Jose,5,2,Nashville,Nashville
+2019020042,Calgary,Los Angeles,3,4,Los Angeles,Los Angeles
+2019020043,Vegas,Boston,3,4,Boston,Boston
+2019020044,Buffalo,Montreal,5,4,Montreal,Buffalo
+2019020045,Philadelphia,New Jersey,4,0,Philadelphia,Philadelphia
+2019020046,Vancouver,Los Angeles,8,2,Vancouver,Vancouver
+2019020044,Buffalo,Montreal,5,4,Montreal,Buffalo
+2019020045,Philadelphia,New Jersey,4,0,Philadelphia,Philadelphia
+2019020046,Vancouver,Los Angeles,8,2,Vancouver,Vancouver
+2019020047,Toronto,Tampa Bay,3,7,Toronto,Tampa Bay
+2019020048,Montreal,Detroit,2,4,Montreal,Detroit
+2019020049,New Jersey,Edmonton,3,4,New Jersey,Edmonton
+2019020050,Pittsburgh,Anaheim,2,1,Pittsburgh,Pittsburgh
+2019020051,Ottawa,St Louis,4,6,Ottawa,St Louis
+2019020052,Nashville,Washington,6,5,Washington,Nashville
+2019020053,Winnipeg,Minnesota,5,2,Winnipeg,Winnipeg
+2019020054,Chicago,San Jose,4,5,San Jose,San Jose
+2019020055,Dallas,Calgary,2,3,Dallas,Calgary
+2019020056,Colorado,Boston,4,2,Colorado,Colorado
+2019020057,Arizona,Vegas,4,1,Arizona,Arizona
+2019020047,Toronto,Tampa Bay,3,7,Toronto,Tampa Bay
+2019020048,Montreal,Detroit,2,4,Montreal,Detroit
+2019020049,New Jersey,Edmonton,3,4,New Jersey,Edmonton
+2019020050,Pittsburgh,Anaheim,2,1,Pittsburgh,Pittsburgh
+2019020051,Ottawa,St Louis,4,6,Ottawa,St Louis
+2019020052,Nashville,Washington,6,5,Washington,Nashville
+2019020053,Winnipeg,Minnesota,5,2,Winnipeg,Winnipeg
+2019020054,Chicago,San Jose,4,5,San Jose,San Jose
+2019020055,Dallas,Calgary,2,3,Dallas,Calgary
+2019020056,Colorado,Boston,4,2,Colorado,Colorado
+2019020057,Arizona,Vegas,4,1,Arizona,Arizona
+2019020058,Buffalo,Florida,3,2,Buffalo,Buffalo
+2019020059,Columbus,Anaheim,1,2,Anaheim,Anaheim
+2019020060,Carolina,NY Islanders,5,2,NY Islanders,Carolina
+2019020058,Buffalo,Florida,3,2,Buffalo,Buffalo
+2019020059,Columbus,Anaheim,1,2,Anaheim,Anaheim
+2019020060,Carolina,NY Islanders,5,2,NY Islanders,Carolina
+2019020061,NY Rangers,Edmonton,1,4,Edmonton,Edmonton
+2019020062,Ottawa,Tampa Bay,4,2,Ottawa,Ottawa
+2019020063,Los Angeles,Nashville,7,4,Los Angeles,Los Angeles
+2019020069,Chicago,Winnipeg,2,3,Winnipeg,Winnipeg
+2019020064,Boston,New Jersey,3,0,Boston,Boston
+2019020065,Montreal,St Louis,6,3,St Louis,Montreal
+2019020066,Detroit,Toronto,2,5,Toronto,Toronto
+2019020067,NY Islanders,Florida,3,2,NY Islanders,NY Islanders
+2019020068,Carolina,Columbus,2,3,Carolina,Columbus
+2019020070,Dallas,Washington,1,4,Washington,Washington
+2019020071,Minnesota,Pittsburgh,4,7,Pittsburgh,Pittsburgh
+2019020072,Colorado,Arizona,3,2,Colorado,Colorado
+2019020073,Vancouver,Philadelphia,3,2,Philadelphia,Vancouver
+2019020074,Vegas,Calgary,6,2,Calgary,Vegas
+2019020061,NY Rangers,Edmonton,1,4,Edmonton,Edmonton
+2019020062,Ottawa,Tampa Bay,4,2,Ottawa,Ottawa
+2019020063,Los Angeles,Nashville,7,4,Los Angeles,Los Angeles
+2019020069,Chicago,Winnipeg,2,3,Winnipeg,Winnipeg
+2019020064,Boston,New Jersey,3,0,Boston,Boston
+2019020065,Montreal,St Louis,6,3,St Louis,Montreal
+2019020066,Detroit,Toronto,2,5,Toronto,Toronto
+2019020067,NY Islanders,Florida,3,2,NY Islanders,NY Islanders
+2019020068,Carolina,Columbus,2,3,Carolina,Columbus
+2019020070,Dallas,Washington,1,4,Washington,Washington
+2019020071,Minnesota,Pittsburgh,4,7,Pittsburgh,Pittsburgh
+2019020072,Colorado,Arizona,3,2,Colorado,Colorado
+2019020073,Vancouver,Philadelphia,3,2,Philadelphia,Vancouver
+2019020074,Vegas,Calgary,6,2,Calgary,Vegas
+2019020075,Winnipeg,Pittsburgh,2,7,Winnipeg,Pittsburgh
+2019020076,Los Angeles,Vegas,2,5,Vegas,Vegas
+2019020077,San Jose,Calgary,3,1,Calgary,San Jose
+2019020075,Winnipeg,Pittsburgh,2,7,Winnipeg,Pittsburgh
+2019020076,Los Angeles,Vegas,2,5,Vegas,Vegas
+2019020077,San Jose,Calgary,3,1,Calgary,San Jose
+2019020078,Boston,Anaheim,4,2,Boston,Boston
+2019020079,Ottawa,Minnesota,0,2,Minnesota,Minnesota
+2019020080,New Jersey,Florida,4,6,New Jersey,Florida
+2019020081,NY Islanders,St Louis,3,2,St Louis,NY Islanders
+2019020082,Buffalo,Dallas,4,0,Buffalo,Buffalo
+2019020083,Washington,Colorado,3,6,Washington,Colorado
+2019020084,Chicago,Edmonton,3,1,Chicago,Chicago
+2019020078,Boston,Anaheim,4,2,Boston,Boston
+2019020079,Ottawa,Minnesota,0,2,Minnesota,Minnesota
+2019020080,New Jersey,Florida,4,6,New Jersey,Florida
+2019020081,NY Islanders,St Louis,3,2,St Louis,NY Islanders
+2019020082,Buffalo,Dallas,4,0,Buffalo,Buffalo
+2019020083,Washington,Colorado,3,6,Washington,Colorado
+2019020084,Chicago,Edmonton,3,1,Chicago,Chicago
+2019020085,Toronto,Minnesota,4,2,Toronto,Toronto
+2019020086,Montreal,Tampa Bay,1,3,Tampa Bay,Tampa Bay
+2019020087,Winnipeg,Arizona,2,4,Arizona,Arizona
+2019020088,Calgary,Philadelphia,3,1,Calgary,Calgary
+2019020089,Vancouver,Detroit,5,1,Vancouver,Vancouver
+2019020090,Vegas,Nashville,2,5,Vegas,Nashville
+2019020091,Los Angeles,Carolina,0,2,Carolina,Carolina
+2019020085,Toronto,Minnesota,4,2,Toronto,Toronto
+2019020086,Montreal,Tampa Bay,1,3,Tampa Bay,Tampa Bay
+2019020087,Winnipeg,Arizona,2,4,Arizona,Arizona
+2019020088,Calgary,Philadelphia,3,1,Calgary,Calgary
+2019020089,Vancouver,Detroit,5,1,Vancouver,Vancouver
+2019020090,Vegas,Nashville,2,5,Vegas,Nashville
+2019020091,Los Angeles,Carolina,0,2,Carolina,Carolina
+2019020092,Pittsburgh,Colorado,3,2,Pittsburgh,Pittsburgh
+2019020093,Washington,Toronto,4,3,Washington,Washington
+2019020094,Columbus,Dallas,3,2,Columbus,Columbus
+2019020095,Edmonton,Philadelphia,6,3,Edmonton,Edmonton
+2019020096,Anaheim,Buffalo,5,2,Anaheim,Anaheim
+2019020097,San Jose,Carolina,5,2,San Jose,San Jose
+2019020092,Pittsburgh,Colorado,3,2,Pittsburgh,Pittsburgh
+2019020093,Washington,Toronto,4,3,Washington,Washington
+2019020094,Columbus,Dallas,3,2,Columbus,Columbus
+2019020095,Edmonton,Philadelphia,6,3,Edmonton,Edmonton
+2019020096,Anaheim,Buffalo,5,2,Anaheim,Anaheim
+2019020097,San Jose,Carolina,5,2,San Jose,San Jose
+2019020098,Boston,Tampa Bay,3,4,Tampa Bay,Tampa Bay
+2019020099,Montreal,Minnesota,4,0,Montreal,Montreal
+2019020100,New Jersey,NY Rangers,5,2,New Jersey,New Jersey
+2019020101,St Louis,Vancouver,3,4,St Louis,Vancouver
+2019020102,Winnipeg,NY Islanders,1,3,NY Islanders,NY Islanders
+2019020103,Calgary,Detroit,5,1,Calgary,Calgary
+2019020104,Arizona,Nashville,5,2,Nashville,Arizona
+2019020105,Vegas,Ottawa,3,2,Vegas,Vegas
+2019020106,Los Angeles,Buffalo,0,3,Buffalo,Buffalo
+2019020098,Boston,Tampa Bay,3,4,Tampa Bay,Tampa Bay
+2019020099,Montreal,Minnesota,4,0,Montreal,Montreal
+2019020100,New Jersey,NY Rangers,5,2,New Jersey,New Jersey
+2019020101,St Louis,Vancouver,3,4,St Louis,Vancouver
+2019020102,Winnipeg,NY Islanders,1,3,NY Islanders,NY Islanders
+2019020103,Calgary,Detroit,5,1,Calgary,Calgary
+2019020104,Arizona,Nashville,5,2,Nashville,Arizona
+2019020105,Vegas,Ottawa,3,2,Vegas,Vegas
+2019020106,Los Angeles,Buffalo,0,3,Buffalo,Buffalo
+2019020107,Florida,Colorado,4,5,Colorado,Colorado
+2019020108,Pittsburgh,Dallas,4,2,Dallas,Pittsburgh
+2019020109,Washington,NY Rangers,5,2,Washington,Washington
+2019020110,Chicago,Columbus,3,2,Columbus,Chicago
+2019020111,Edmonton,Detroit,2,1,Edmonton,Edmonton
+2019020112,Anaheim,Carolina,4,2,Anaheim,Anaheim
+2019020107,Florida,Colorado,4,5,Colorado,Colorado
+2019020108,Pittsburgh,Dallas,4,2,Dallas,Pittsburgh
+2019020109,Washington,NY Rangers,5,2,Washington,Washington
+2019020110,Chicago,Columbus,3,2,Columbus,Chicago
+2019020111,Edmonton,Detroit,2,1,Edmonton,Edmonton
+2019020112,Anaheim,Carolina,4,2,Anaheim,Anaheim
+2019020113,New Jersey,Vancouver,1,0,New Jersey,New Jersey
+2019020114,St Louis,Montreal,2,5,Montreal,Montreal
+2019020120,Arizona,Ottawa,5,2,Arizona,Arizona
+2019020115,Toronto,Boston,4,3,Boston,Toronto
+2019020116,Tampa Bay,Colorado,2,6,Colorado,Colorado
+2019020117,Philadelphia,Dallas,1,4,Philadelphia,Dallas
+2019020118,Pittsburgh,Vegas,0,3,Vegas,Vegas
+2019020119,Columbus,NY Islanders,2,3,Columbus,NY Islanders
+2019020121,Nashville,Florida,2,3,Florida,Florida
+2019020122,Los Angeles,Calgary,4,1,Los Angeles,Los Angeles
+2019020123,San Jose,Buffalo,3,4,Buffalo,Buffalo
+2019020113,New Jersey,Vancouver,1,0,New Jersey,New Jersey
+2019020114,St Louis,Montreal,2,5,Montreal,Montreal
+2019020120,Arizona,Ottawa,5,2,Arizona,Arizona
+2019020115,Toronto,Boston,4,3,Boston,Toronto
+2019020116,Tampa Bay,Colorado,2,6,Colorado,Colorado
+2019020117,Philadelphia,Dallas,1,4,Philadelphia,Dallas
+2019020118,Pittsburgh,Vegas,0,3,Vegas,Vegas
+2019020119,Columbus,NY Islanders,2,3,Columbus,NY Islanders
+2019020121,Nashville,Florida,2,3,Florida,Florida
+2019020122,Los Angeles,Calgary,4,1,Los Angeles,Los Angeles
+2019020123,San Jose,Buffalo,3,4,Buffalo,Buffalo
+2019020124,NY Rangers,Vancouver,2,3,Vancouver,Vancouver
+2019020125,Minnesota,Montreal,4,3,Montreal,Minnesota
+2019020126,Chicago,Washington,3,5,Chicago,Washington
+2019020127,Winnipeg,Edmonton,1,0,Winnipeg,Winnipeg
+2019020128,Anaheim,Calgary,1,2,Anaheim,Calgary
+2019020124,NY Rangers,Vancouver,2,3,Vancouver,Vancouver
+2019020125,Minnesota,Montreal,4,3,Montreal,Minnesota
+2019020126,Chicago,Washington,3,5,Chicago,Washington
+2019020127,Winnipeg,Edmonton,1,0,Winnipeg,Winnipeg
+2019020128,Anaheim,Calgary,1,2,Anaheim,Calgary
+2019020129,Toronto,Columbus,3,4,Toronto,Columbus
+2019020130,Philadelphia,Vegas,6,2,Philadelphia,Philadelphia
+2019020131,St Louis,Colorado,3,1,St Louis,St Louis
+2019020132,Dallas,Ottawa,2,1,Dallas,Dallas
+2019020129,Toronto,Columbus,3,4,Toronto,Columbus
+2019020130,Philadelphia,Vegas,6,2,Philadelphia,Philadelphia
+2019020131,St Louis,Colorado,3,1,St Louis,St Louis
+2019020132,Dallas,Ottawa,2,1,Dallas,Dallas
+2019020133,Boston,Toronto,4,2,Toronto,Boston
+2019020134,Buffalo,San Jose,4,3,Buffalo,Buffalo
+2019020135,Florida,Pittsburgh,4,2,Florida,Florida
+2019020136,NY Rangers,Arizona,2,3,NY Rangers,Arizona
+2019020137,Detroit,Vancouver,2,5,Detroit,Vancouver
+2019020138,Nashville,Anaheim,6,1,Nashville,Nashville
+2019020139,Minnesota,Edmonton,3,0,Minnesota,Minnesota
+2019020140,Winnipeg,Los Angeles,2,3,Winnipeg,Los Angeles
+2019020141,Chicago,Vegas,1,2,Vegas,Vegas
+2019020142,Calgary,Washington,3,5,Washington,Washington
+2019020133,Boston,Toronto,4,2,Toronto,Boston
+2019020134,Buffalo,San Jose,4,3,Buffalo,Buffalo
+2019020135,Florida,Pittsburgh,4,2,Florida,Florida
+2019020136,NY Rangers,Arizona,2,3,NY Rangers,Arizona
+2019020137,Detroit,Vancouver,2,5,Detroit,Vancouver
+2019020138,Nashville,Anaheim,6,1,Nashville,Nashville
+2019020139,Minnesota,Edmonton,3,0,Minnesota,Minnesota
+2019020140,Winnipeg,Los Angeles,2,3,Winnipeg,Los Angeles
+2019020141,Chicago,Vegas,1,2,Vegas,Vegas
+2019020142,Calgary,Washington,3,5,Washington,Washington
+2019020143,Ottawa,Detroit,5,2,Detroit,Ottawa
+2019020144,Tampa Bay,Pittsburgh,3,2,Pittsburgh,Tampa Bay
+2019020143,Ottawa,Detroit,5,2,Detroit,Ottawa
+2019020144,Tampa Bay,Pittsburgh,3,2,Pittsburgh,Tampa Bay
+2019020145,Montreal,San Jose,2,4,San Jose,San Jose
+2019020146,NY Islanders,Arizona,4,2,NY Islanders,NY Islanders
+2019020147,NY Rangers,Buffalo,6,2,NY Rangers,NY Rangers
+2019020148,Columbus,Carolina,4,3,Columbus,Columbus
+2019020149,St Louis,Los Angeles,5,2,Los Angeles,St Louis
+2019020150,Nashville,Minnesota,4,0,Nashville,Nashville
+2019020151,Chicago,Philadelphia,1,4,Chicago,Philadelphia
+2019020152,Dallas,Anaheim,2,1,Anaheim,Dallas
+2019020153,Calgary,Florida,6,5,Florida,Calgary
+2019020154,Edmonton,Washington,4,3,Washington,Edmonton
+2019020145,Montreal,San Jose,2,4,San Jose,San Jose
+2019020146,NY Islanders,Arizona,4,2,NY Islanders,NY Islanders
+2019020147,NY Rangers,Buffalo,6,2,NY Rangers,NY Rangers
+2019020148,Columbus,Carolina,4,3,Columbus,Columbus
+2019020149,St Louis,Los Angeles,5,2,Los Angeles,St Louis
+2019020150,Nashville,Minnesota,4,0,Nashville,Nashville
+2019020151,Chicago,Philadelphia,1,4,Chicago,Philadelphia
+2019020152,Dallas,Anaheim,2,1,Anaheim,Dallas
+2019020153,Calgary,Florida,6,5,Florida,Calgary
+2019020154,Edmonton,Washington,4,3,Washington,Edmonton
+2019020155,Vegas,Colorado,1,6,Colorado,Colorado
+2019020156,Toronto,San Jose,4,1,Toronto,Toronto
+2019020157,New Jersey,Arizona,3,5,Arizona,Arizona
+2019020158,Ottawa,NY Islanders,2,4,NY Islanders,NY Islanders
+2019020159,Detroit,Buffalo,0,2,Buffalo,Buffalo
+2019020160,Vancouver,Washington,5,6,Vancouver,Washington
+2019020155,Vegas,Colorado,1,6,Colorado,Colorado
+2019020156,Toronto,San Jose,4,1,Toronto,Toronto
+2019020157,New Jersey,Arizona,3,5,Arizona,Arizona
+2019020158,Ottawa,NY Islanders,2,4,NY Islanders,NY Islanders
+2019020159,Detroit,Buffalo,0,2,Buffalo,Buffalo
+2019020160,Vancouver,Washington,5,6,Vancouver,Washington
+2019020161,Carolina,Chicago,4,0,Carolina,Carolina
+2019020162,Boston,St Louis,3,0,Boston,Boston
+2019020163,Montreal,Toronto,5,2,Toronto,Montreal
+2019020164,Tampa Bay,Nashville,2,3,Tampa Bay,Nashville
+2019020165,Philadelphia,Columbus,7,4,Columbus,Philadelphia
+2019020166,Dallas,Pittsburgh,0,3,Pittsburgh,Pittsburgh
+2019020167,Minnesota,Los Angeles,5,1,Los Angeles,Minnesota
+2019020169,Colorado,Anaheim,2,5,Colorado,Anaheim
+2019020168,Winnipeg,Calgary,2,1,Calgary,Winnipeg
+2019020161,Carolina,Chicago,4,0,Carolina,Carolina
+2019020162,Boston,St Louis,3,0,Boston,Boston
+2019020163,Montreal,Toronto,5,2,Toronto,Montreal
+2019020164,Tampa Bay,Nashville,2,3,Tampa Bay,Nashville
+2019020165,Philadelphia,Columbus,7,4,Columbus,Philadelphia
+2019020166,Dallas,Pittsburgh,0,3,Pittsburgh,Pittsburgh
+2019020167,Minnesota,Los Angeles,5,1,Los Angeles,Minnesota
+2019020169,Colorado,Anaheim,2,5,Colorado,Anaheim
+2019020168,Winnipeg,Calgary,2,1,Calgary,Winnipeg
+2019020170,Edmonton,Florida,2,6,Florida,Florida
+2019020171,Detroit,St Louis,4,5,Detroit,St Louis
+2019020175,Chicago,Los Angeles,5,1,Chicago,Chicago
+2019020172,Ottawa,San Jose,5,2,Ottawa,Ottawa
+2019020173,NY Islanders,Philadelphia,5,3,Philadelphia,NY Islanders
+2019020174,NY Rangers,Boston,4,7,Boston,Boston
+2019020176,Vegas,Anaheim,5,2,Vegas,Vegas
+2019020170,Edmonton,Florida,2,6,Florida,Florida
+2019020171,Detroit,St Louis,4,5,Detroit,St Louis
+2019020175,Chicago,Los Angeles,5,1,Chicago,Chicago
+2019020172,Ottawa,San Jose,5,2,Ottawa,Ottawa
+2019020173,NY Islanders,Philadelphia,5,3,Philadelphia,NY Islanders
+2019020174,NY Rangers,Boston,4,7,Boston,Boston
+2019020176,Vegas,Anaheim,5,2,Vegas,Vegas
+2019020177,Buffalo,Arizona,2,3,Arizona,Arizona
+2019020178,Vancouver,Florida,7,2,Vancouver,Vancouver
+2019020177,Buffalo,Arizona,2,3,Arizona,Arizona
+2019020178,Vancouver,Florida,7,2,Vancouver,Vancouver
+2019020179,Boston,San Jose,5,1,San Jose,Boston
+2019020180,Toronto,Washington,3,4,Washington,Washington
+2019020182,Pittsburgh,Philadelphia,7,1,Pittsburgh,Pittsburgh
+2019020183,Carolina,Calgary,2,1,Carolina,Carolina
+2019020181,NY Rangers,Tampa Bay,4,1,NY Rangers,NY Rangers
+2019020184,Detroit,Edmonton,3,1,Edmonton,Detroit
+2019020185,Nashville,Chicago,3,0,Nashville,Nashville
+2019020186,Dallas,Minnesota,6,3,Minnesota,Dallas
+2019020187,Anaheim,Winnipeg,7,4,Anaheim,Anaheim
+2019020179,Boston,San Jose,5,1,San Jose,Boston
+2019020180,Toronto,Washington,3,4,Washington,Washington
+2019020182,Pittsburgh,Philadelphia,7,1,Pittsburgh,Pittsburgh
+2019020183,Carolina,Calgary,2,1,Carolina,Carolina
+2019020181,NY Rangers,Tampa Bay,4,1,NY Rangers,NY Rangers
+2019020184,Detroit,Edmonton,3,1,Edmonton,Detroit
+2019020185,Nashville,Chicago,3,0,Nashville,Nashville
+2019020186,Dallas,Minnesota,6,3,Minnesota,Dallas
+2019020187,Anaheim,Winnipeg,7,4,Anaheim,Anaheim
+2019020188,New Jersey,Tampa Bay,6,7,New Jersey,Tampa Bay
+2019020189,Columbus,Edmonton,1,4,Edmonton,Edmonton
+2019020190,St Louis,Minnesota,2,1,St Louis,St Louis
+2019020192,Arizona,Montreal,1,4,Montreal,Montreal
+2019020191,Colorado,Florida,3,4,Colorado,Florida
+2019020193,Los Angeles,Vancouver,3,5,Vancouver,Vancouver
+2019020188,New Jersey,Tampa Bay,6,7,New Jersey,Tampa Bay
+2019020189,Columbus,Edmonton,1,4,Edmonton,Edmonton
+2019020190,St Louis,Minnesota,2,1,St Louis,St Louis
+2019020192,Arizona,Montreal,1,4,Montreal,Montreal
+2019020191,Colorado,Florida,3,4,Colorado,Florida
+2019020193,Los Angeles,Vancouver,3,5,Vancouver,Vancouver
+2019020194,Nashville,Calgary,5,6,Nashville,Calgary
+2019020195,Vegas,Montreal,4,5,Vegas,Montreal
+2019020194,Nashville,Calgary,5,6,Nashville,Calgary
+2019020195,Vegas,Montreal,4,5,Vegas,Montreal
+2019020196,New Jersey,Philadelphia,3,4,Philadelphia,Philadelphia
+2019020197,NY Islanders,Tampa Bay,5,2,NY Islanders,NY Islanders
+2019020198,Washington,Buffalo,6,1,Buffalo,Washington
+2019020199,Carolina,Detroit,7,3,Carolina,Carolina
+2019020200,St Louis,Columbus,4,3,Columbus,St Louis
+2019020201,Colorado,Dallas,1,2,Dallas,Dallas
+2019020202,Anaheim,Vancouver,2,1,Vancouver,Anaheim
+2019020203,San Jose,Winnipeg,2,3,San Jose,Winnipeg
+2019020196,New Jersey,Philadelphia,3,4,Philadelphia,Philadelphia
+2019020197,NY Islanders,Tampa Bay,5,2,NY Islanders,NY Islanders
+2019020198,Washington,Buffalo,6,1,Buffalo,Washington
+2019020199,Carolina,Detroit,7,3,Carolina,Carolina
+2019020200,St Louis,Columbus,4,3,Columbus,St Louis
+2019020201,Colorado,Dallas,1,2,Dallas,Dallas
+2019020202,Anaheim,Vancouver,2,1,Vancouver,Anaheim
+2019020203,San Jose,Winnipeg,2,3,San Jose,Winnipeg
+2019020204,Pittsburgh,Edmonton,1,2,Edmonton,Edmonton
+2019020205,Nashville,NY Rangers,1,2,Nashville,NY Rangers
+2019020212,Dallas,Montreal,4,1,Dallas,Dallas
+2019020206,Boston,Ottawa,5,2,Boston,Boston
+2019020207,Buffalo,NY Islanders,0,1,NY Islanders,NY Islanders
+2019020208,Florida,Detroit,4,0,Florida,Florida
+2019020209,Philadelphia,Toronto,3,4,Philadelphia,Toronto
+2019020210,Carolina,New Jersey,3,5,New Jersey,New Jersey
+2019020211,Columbus,Calgary,0,3,Calgary,Calgary
+2019020213,Minnesota,St Louis,3,4,Minnesota,St Louis
+2019020214,Arizona,Colorado,3,0,Arizona,Arizona
+2019020215,Vegas,Winnipeg,3,4,Winnipeg,Winnipeg
+2019020216,San Jose,Vancouver,2,5,Vancouver,Vancouver
+2019020217,Los Angeles,Chicago,4,3,Los Angeles,Los Angeles
+2019020204,Pittsburgh,Edmonton,1,2,Edmonton,Edmonton
+2019020205,Nashville,NY Rangers,1,2,Nashville,NY Rangers
+2019020212,Dallas,Montreal,4,1,Dallas,Dallas
+2019020206,Boston,Ottawa,5,2,Boston,Boston
+2019020207,Buffalo,NY Islanders,0,1,NY Islanders,NY Islanders
+2019020208,Florida,Detroit,4,0,Florida,Florida
+2019020209,Philadelphia,Toronto,3,4,Philadelphia,Toronto
+2019020210,Carolina,New Jersey,3,5,New Jersey,New Jersey
+2019020211,Columbus,Calgary,0,3,Calgary,Calgary
+2019020213,Minnesota,St Louis,3,4,Minnesota,St Louis
+2019020214,Arizona,Colorado,3,0,Arizona,Arizona
+2019020215,Vegas,Winnipeg,3,4,Winnipeg,Winnipeg
+2019020216,San Jose,Vancouver,2,5,Vancouver,Vancouver
+2019020217,Los Angeles,Chicago,4,3,Los Angeles,Los Angeles
+2019020218,Washington,Calgary,4,2,Calgary,Washington
+2019020219,Anaheim,Chicago,2,3,Anaheim,Chicago
+2019020218,Washington,Calgary,4,2,Calgary,Washington
+2019020219,Anaheim,Chicago,2,3,Anaheim,Chicago
+2019020220,Boston,Pittsburgh,6,4,Boston,Boston
+2019020221,NY Rangers,Ottawa,2,6,Ottawa,Ottawa
+2019020222,Detroit,Nashville,1,6,Nashville,Nashville
+2019020223,Edmonton,Arizona,2,3,Arizona,Arizona
+2019020220,Boston,Pittsburgh,6,4,Boston,Boston
+2019020221,NY Rangers,Ottawa,2,6,Ottawa,Ottawa
+2019020222,Detroit,Nashville,1,6,Nashville,Nashville
+2019020223,Edmonton,Arizona,2,3,Arizona,Arizona
+2019020225,NY Islanders,Ottawa,4,1,NY Islanders,NY Islanders
+2019020226,Philadelphia,Carolina,4,1,Carolina,Philadelphia
+2019020227,Columbus,Vegas,1,2,Columbus,Vegas
+2019020224,Montreal,Boston,5,4,Montreal,Montreal
+2019020228,Toronto,Los Angeles,3,1,Los Angeles,Toronto
+2019020229,Winnipeg,New Jersey,1,2,Winnipeg,New Jersey
+2019020230,Dallas,Colorado,4,1,Dallas,Dallas
+2019020231,Calgary,Arizona,4,3,Arizona,Calgary
+2019020232,Vancouver,St Louis,1,2,St Louis,St Louis
+2019020233,Anaheim,Minnesota,2,4,Anaheim,Minnesota
+2019020234,San Jose,Chicago,4,2,San Jose,San Jose
+2019020225,NY Islanders,Ottawa,4,1,NY Islanders,NY Islanders
+2019020226,Philadelphia,Carolina,4,1,Carolina,Philadelphia
+2019020227,Columbus,Vegas,1,2,Columbus,Vegas
+2019020224,Montreal,Boston,5,4,Montreal,Montreal
+2019020228,Toronto,Los Angeles,3,1,Los Angeles,Toronto
+2019020229,Winnipeg,New Jersey,1,2,Winnipeg,New Jersey
+2019020230,Dallas,Colorado,4,1,Dallas,Dallas
+2019020231,Calgary,Arizona,4,3,Arizona,Calgary
+2019020232,Vancouver,St Louis,1,2,St Louis,St Louis
+2019020233,Anaheim,Minnesota,2,4,Anaheim,Minnesota
+2019020234,San Jose,Chicago,4,2,San Jose,San Jose
+2019020235,NY Rangers,Detroit,5,1,NY Rangers,NY Rangers
+2019020236,Edmonton,St Louis,2,5,St Louis,St Louis
+2019020235,NY Rangers,Detroit,5,1,NY Rangers,NY Rangers
+2019020236,Edmonton,St Louis,2,5,St Louis,St Louis
+2019020237,Toronto,Vegas,2,1,Vegas,Toronto
+2019020238,Florida,Washington,4,5,Washington,Washington
+2019020239,NY Islanders,Pittsburgh,3,4,NY Islanders,Pittsburgh
+2019020240,Philadelphia,Montreal,3,2,Philadelphia,Philadelphia
+2019020241,Carolina,NY Rangers,2,4,NY Rangers,NY Rangers
+2019020242,Ottawa,Los Angeles,3,2,Los Angeles,Ottawa
+2019020243,Chicago,Vancouver,5,2,Chicago,Chicago
+2019020244,Colorado,Nashville,9,4,Colorado,Colorado
+2019020245,Calgary,New Jersey,5,2,Calgary,Calgary
+2019020246,Arizona,Columbus,2,3,Arizona,Columbus
+2019020247,San Jose,Minnesota,6,5,San Jose,San Jose
+2019020237,Toronto,Vegas,2,1,Vegas,Toronto
+2019020238,Florida,Washington,4,5,Washington,Washington
+2019020239,NY Islanders,Pittsburgh,3,4,NY Islanders,Pittsburgh
+2019020240,Philadelphia,Montreal,3,2,Philadelphia,Philadelphia
+2019020241,Carolina,NY Rangers,2,4,NY Rangers,NY Rangers
+2019020242,Ottawa,Los Angeles,3,2,Los Angeles,Ottawa
+2019020243,Chicago,Vancouver,5,2,Chicago,Chicago
+2019020244,Colorado,Nashville,9,4,Colorado,Colorado
+2019020245,Calgary,New Jersey,5,2,Calgary,Calgary
+2019020246,Arizona,Columbus,2,3,Arizona,Columbus
+2019020247,San Jose,Minnesota,6,5,San Jose,San Jose
+2019020249,Buffalo,Tampa Bay,2,3,Buffalo,Tampa Bay
+2019020248,Detroit,Boston,4,2,Boston,Detroit
+2019020250,Winnipeg,Vancouver,4,1,Vancouver,Winnipeg
+2019020251,Edmonton,New Jersey,4,0,Edmonton,Edmonton
+2019020249,Buffalo,Tampa Bay,2,3,Buffalo,Tampa Bay
+2019020248,Detroit,Boston,4,2,Boston,Detroit
+2019020250,Winnipeg,Vancouver,4,1,Vancouver,Winnipeg
+2019020251,Edmonton,New Jersey,4,0,Edmonton,Edmonton
+2019020252,NY Islanders,Florida,2,1,Florida,NY Islanders
+2019020256,Tampa Bay,Buffalo,5,3,Tampa Bay,Tampa Bay
+2019020253,Toronto,Philadelphia,2,3,Toronto,Philadelphia
+2019020254,Montreal,Los Angeles,3,2,Montreal,Montreal
+2019020255,Ottawa,Carolina,4,1,Ottawa,Ottawa
+2019020257,Pittsburgh,Chicago,3,2,Chicago,Pittsburgh
+2019020258,Washington,Vegas,5,2,Washington,Washington
+2019020259,Arizona,Minnesota,3,4,Minnesota,Minnesota
+2019020260,Colorado,Columbus,4,2,Columbus,Colorado
+2019020261,Calgary,St Louis,2,3,St Louis,St Louis
+2019020262,San Jose,Nashville,2,1,Nashville,San Jose
+2019020252,NY Islanders,Florida,2,1,Florida,NY Islanders
+2019020256,Tampa Bay,Buffalo,5,3,Tampa Bay,Tampa Bay
+2019020253,Toronto,Philadelphia,2,3,Toronto,Philadelphia
+2019020254,Montreal,Los Angeles,3,2,Montreal,Montreal
+2019020255,Ottawa,Carolina,4,1,Ottawa,Ottawa
+2019020257,Pittsburgh,Chicago,3,2,Chicago,Pittsburgh
+2019020258,Washington,Vegas,5,2,Washington,Washington
+2019020259,Arizona,Minnesota,3,4,Minnesota,Minnesota
+2019020260,Colorado,Columbus,4,2,Columbus,Colorado
+2019020261,Calgary,St Louis,2,3,St Louis,St Louis
+2019020262,San Jose,Nashville,2,1,Nashville,San Jose
+2019020263,NY Rangers,Florida,5,6,Florida,Florida
+2019020264,Winnipeg,Dallas,3,2,Dallas,Winnipeg
+2019020265,Vancouver,New Jersey,1,2,Vancouver,New Jersey
+2019020266,Detroit,Vegas,3,2,Vegas,Detroit
+2019020268,Chicago,Toronto,5,4,Chicago,Chicago
+2019020267,Boston,Philadelphia,2,3,Boston,Philadelphia
+2019020269,Anaheim,Edmonton,2,6,Edmonton,Edmonton
+2019020263,NY Rangers,Florida,5,6,Florida,Florida
+2019020264,Winnipeg,Dallas,3,2,Dallas,Winnipeg
+2019020265,Vancouver,New Jersey,1,2,Vancouver,New Jersey
+2019020266,Detroit,Vegas,3,2,Vegas,Detroit
+2019020268,Chicago,Toronto,5,4,Chicago,Chicago
+2019020267,Boston,Philadelphia,2,3,Boston,Philadelphia
+2019020269,Anaheim,Edmonton,2,6,Edmonton,Edmonton
+2019020270,Washington,Arizona,3,4,Arizona,Arizona
+2019020271,Carolina,Ottawa,8,2,Carolina,Carolina
+2019020270,Washington,Arizona,3,4,Arizona,Arizona
+2019020271,Carolina,Ottawa,8,2,Carolina,Carolina
+2019020272,Boston,Florida,4,5,Boston,Florida
+2019020273,Montreal,Columbus,3,2,Columbus,Montreal
+2019020274,NY Rangers,Pittsburgh,3,2,NY Rangers,NY Rangers
+2019020275,St Louis,Arizona,2,3,Arizona,Arizona
+2019020276,Winnipeg,Colorado,0,4,Colorado,Colorado
+2019020277,Vancouver,Nashville,5,3,Nashville,Vancouver
+2019020278,Anaheim,Detroit,3,4,Anaheim,Detroit
+2019020279,Los Angeles,Minnesota,3,1,Los Angeles,Los Angeles
+2019020280,San Jose,Edmonton,6,3,San Jose,San Jose
+2019020272,Boston,Florida,4,5,Boston,Florida
+2019020273,Montreal,Columbus,3,2,Columbus,Montreal
+2019020274,NY Rangers,Pittsburgh,3,2,NY Rangers,NY Rangers
+2019020275,St Louis,Arizona,2,3,Arizona,Arizona
+2019020276,Winnipeg,Colorado,0,4,Colorado,Colorado
+2019020277,Vancouver,Nashville,5,3,Nashville,Vancouver
+2019020278,Anaheim,Detroit,3,4,Anaheim,Detroit
+2019020279,Los Angeles,Minnesota,3,1,Los Angeles,Los Angeles
+2019020280,San Jose,Edmonton,6,3,San Jose,San Jose
+2019020281,New Jersey,Ottawa,2,4,Ottawa,Ottawa
+2019020282,NY Islanders,Toronto,5,4,NY Islanders,NY Islanders
+2019020283,Philadelphia,Washington,1,2,Philadelphia,Washington
+2019020284,Calgary,Dallas,1,3,Dallas,Dallas
+2019020285,Vegas,Chicago,3,5,Chicago,Chicago
+2019020281,New Jersey,Ottawa,2,4,Ottawa,Ottawa
+2019020282,NY Islanders,Toronto,5,4,NY Islanders,NY Islanders
+2019020283,Philadelphia,Washington,1,2,Philadelphia,Washington
+2019020284,Calgary,Dallas,1,3,Dallas,Dallas
+2019020285,Vegas,Chicago,3,5,Chicago,Chicago
+2019020286,Buffalo,Carolina,4,5,Carolina,Carolina
+2019020287,Tampa Bay,NY Rangers,9,3,Tampa Bay,Tampa Bay
+2019020288,Florida,Winnipeg,3,4,Winnipeg,Winnipeg
+2019020289,Minnesota,Arizona,3,2,Arizona,Minnesota
+2019020290,Edmonton,Colorado,6,2,Colorado,Edmonton
+2019020291,Vancouver,Dallas,2,4,Dallas,Dallas
+2019020292,Anaheim,San Jose,3,5,Anaheim,San Jose
+2019020293,Los Angeles,Detroit,3,2,Detroit,Los Angeles
+2019020286,Buffalo,Carolina,4,5,Carolina,Carolina
+2019020287,Tampa Bay,NY Rangers,9,3,Tampa Bay,Tampa Bay
+2019020288,Florida,Winnipeg,3,4,Winnipeg,Winnipeg
+2019020289,Minnesota,Arizona,3,2,Arizona,Minnesota
+2019020290,Edmonton,Colorado,6,2,Colorado,Edmonton
+2019020291,Vancouver,Dallas,2,4,Dallas,Dallas
+2019020292,Anaheim,San Jose,3,5,Anaheim,San Jose
+2019020293,Los Angeles,Detroit,3,2,Detroit,Los Angeles
+2019020294,Toronto,Boston,2,4,Toronto,Boston
+2019020295,New Jersey,Pittsburgh,2,1,New Jersey,New Jersey
+2019020296,Washington,Montreal,2,5,Montreal,Montreal
+2019020297,Columbus,St Louis,3,2,St Louis,Columbus
+2019020298,Ottawa,Philadelphia,2,1,Ottawa,Ottawa
+2019020294,Toronto,Boston,2,4,Toronto,Boston
+2019020295,New Jersey,Pittsburgh,2,1,New Jersey,New Jersey
+2019020296,Washington,Montreal,2,5,Montreal,Montreal
+2019020297,Columbus,St Louis,3,2,St Louis,Columbus
+2019020298,Ottawa,Philadelphia,2,1,Ottawa,Ottawa
+2019020299,Minnesota,Carolina,3,4,Minnesota,Carolina
+2019020312,Los Angeles,Vegas,4,3,Vegas,Los Angeles
+2019020301,Edmonton,Dallas,4,5,Edmonton,Dallas
+2019020302,Arizona,Calgary,3,0,Arizona,Arizona
+2019020300,Tampa Bay,Winnipeg,3,4,Winnipeg,Winnipeg
+2019020303,Boston,Washington,2,3,Boston,Washington
+2019020304,Buffalo,Ottawa,4,2,Buffalo,Buffalo
+2019020305,Montreal,New Jersey,3,4,Montreal,New Jersey
+2019020306,Florida,NY Rangers,4,3,NY Rangers,Florida
+2019020307,Philadelphia,NY Islanders,3,4,Philadelphia,NY Islanders
+2019020308,Pittsburgh,Toronto,6,1,Pittsburgh,Pittsburgh
+2019020309,St Louis,Anaheim,1,4,St Louis,Anaheim
+2019020310,Nashville,Chicago,2,7,Chicago,Chicago
+2019020311,Vancouver,Colorado,4,5,Colorado,Colorado
+2019020313,San Jose,Detroit,4,3,San Jose,San Jose
+2019020299,Minnesota,Carolina,3,4,Minnesota,Carolina
+2019020312,Los Angeles,Vegas,4,3,Vegas,Los Angeles
+2019020301,Edmonton,Dallas,4,5,Edmonton,Dallas
+2019020302,Arizona,Calgary,3,0,Arizona,Arizona
+2019020300,Tampa Bay,Winnipeg,3,4,Winnipeg,Winnipeg
+2019020303,Boston,Washington,2,3,Boston,Washington
+2019020304,Buffalo,Ottawa,4,2,Buffalo,Buffalo
+2019020305,Montreal,New Jersey,3,4,Montreal,New Jersey
+2019020306,Florida,NY Rangers,4,3,NY Rangers,Florida
+2019020307,Philadelphia,NY Islanders,3,4,Philadelphia,NY Islanders
+2019020308,Pittsburgh,Toronto,6,1,Pittsburgh,Pittsburgh
+2019020309,St Louis,Anaheim,1,4,St Louis,Anaheim
+2019020310,Nashville,Chicago,2,7,Chicago,Chicago
+2019020311,Vancouver,Colorado,4,5,Colorado,Colorado
+2019020313,San Jose,Detroit,4,3,San Jose,San Jose
+2019020315,Vegas,Calgary,6,0,Vegas,Vegas
+2019020314,Chicago,Buffalo,4,1,Chicago,Chicago
+2019020315,Vegas,Calgary,6,0,Vegas,Vegas
+2019020314,Chicago,Buffalo,4,1,Chicago,Chicago
+2019020316,Washington,Anaheim,5,2,Washington,Washington
+2019020317,Arizona,Los Angeles,3,0,Arizona,Arizona
+2019020316,Washington,Anaheim,5,2,Washington,Washington
+2019020317,Arizona,Los Angeles,3,0,Arizona,Arizona
+2019020318,Buffalo,Minnesota,1,4,Minnesota,Minnesota
+2019020319,Florida,Philadelphia,5,2,Florida,Florida
+2019020320,New Jersey,Boston,1,5,New Jersey,Boston
+2019020321,Pittsburgh,NY Islanders,4,5,Pittsburgh,NY Islanders
+2019020322,Columbus,Montreal,5,2,Columbus,Columbus
+2019020323,Detroit,Ottawa,3,4,Ottawa,Ottawa
+2019020324,St Louis,Tampa Bay,3,1,St Louis,St Louis
+2019020325,Nashville,Winnipeg,1,2,Winnipeg,Winnipeg
+2019020326,Chicago,Carolina,2,4,Carolina,Carolina
+2019020327,Dallas,Vancouver,6,1,Dallas,Dallas
+2019020328,Calgary,Colorado,2,3,Colorado,Colorado
+2019020329,Vegas,Toronto,4,2,Vegas,Vegas
+2019020330,San Jose,Edmonton,2,5,Edmonton,Edmonton
+2019020318,Buffalo,Minnesota,1,4,Minnesota,Minnesota
+2019020319,Florida,Philadelphia,5,2,Florida,Florida
+2019020320,New Jersey,Boston,1,5,New Jersey,Boston
+2019020321,Pittsburgh,NY Islanders,4,5,Pittsburgh,NY Islanders
+2019020322,Columbus,Montreal,5,2,Columbus,Columbus
+2019020323,Detroit,Ottawa,3,4,Ottawa,Ottawa
+2019020324,St Louis,Tampa Bay,3,1,St Louis,St Louis
+2019020325,Nashville,Winnipeg,1,2,Winnipeg,Winnipeg
+2019020326,Chicago,Carolina,2,4,Carolina,Carolina
+2019020327,Dallas,Vancouver,6,1,Dallas,Dallas
+2019020328,Calgary,Colorado,2,3,Colorado,Colorado
+2019020329,Vegas,Toronto,4,2,Vegas,Vegas
+2019020330,San Jose,Edmonton,2,5,Edmonton,Edmonton
+2019020331,Montreal,Ottawa,1,2,Montreal,Ottawa
+2019020332,NY Rangers,Washington,4,1,NY Rangers,NY Rangers
+2019020331,Montreal,Ottawa,1,2,Montreal,Ottawa
+2019020332,NY Rangers,Washington,4,1,NY Rangers,NY Rangers
+2019020333,Boston,Buffalo,3,2,Boston,Boston
+2019020334,Florida,Anaheim,5,4,Anaheim,Florida
+2019020335,NY Islanders,Pittsburgh,4,3,Pittsburgh,NY Islanders
+2019020336,Carolina,Philadelphia,3,5,Philadelphia,Philadelphia
+2019020337,Columbus,Detroit,5,4,Columbus,Columbus
+2019020338,St Louis,Calgary,5,0,St Louis,St Louis
+2019020339,Nashville,Vancouver,3,6,Nashville,Vancouver
+2019020340,Minnesota,Colorado,3,2,Minnesota,Minnesota
+2019020341,Chicago,Tampa Bay,2,4,Tampa Bay,Tampa Bay
+2019020342,Dallas,Winnipeg,5,3,Dallas,Dallas
+2019020343,Arizona,Toronto,1,3,Toronto,Toronto
+2019020344,Vegas,San Jose,1,2,San Jose,San Jose
+2019020345,Los Angeles,Edmonton,5,1,Los Angeles,Los Angeles
+2019020333,Boston,Buffalo,3,2,Boston,Boston
+2019020334,Florida,Anaheim,5,4,Anaheim,Florida
+2019020335,NY Islanders,Pittsburgh,4,3,Pittsburgh,NY Islanders
+2019020336,Carolina,Philadelphia,3,5,Philadelphia,Philadelphia
+2019020337,Columbus,Detroit,5,4,Columbus,Columbus
+2019020338,St Louis,Calgary,5,0,St Louis,St Louis
+2019020339,Nashville,Vancouver,3,6,Nashville,Vancouver
+2019020340,Minnesota,Colorado,3,2,Minnesota,Minnesota
+2019020341,Chicago,Tampa Bay,2,4,Tampa Bay,Tampa Bay
+2019020342,Dallas,Winnipeg,5,3,Dallas,Dallas
+2019020343,Arizona,Toronto,1,3,Toronto,Toronto
+2019020344,Vegas,San Jose,1,2,San Jose,San Jose
+2019020345,Los Angeles,Edmonton,5,1,Los Angeles,Los Angeles
+2019020346,Pittsburgh,New Jersey,4,1,New Jersey,Pittsburgh
+2019020347,Ottawa,NY Rangers,4,1,Ottawa,Ottawa
+2019020346,Pittsburgh,New Jersey,4,1,New Jersey,Pittsburgh
+2019020347,Ottawa,NY Rangers,4,1,Ottawa,Ottawa
+2019020348,Washington,Vancouver,1,2,Washington,Vancouver
+2019020349,Philadelphia,Calgary,2,3,Philadelphia,Calgary
+2019020350,Los Angeles,Arizona,2,3,Los Angeles,Arizona
+2019020357,Colorado,Toronto,3,5,Colorado,Toronto
+2019020356,Winnipeg,Columbus,4,3,Winnipeg,Winnipeg
+2019020351,Boston,Minnesota,5,4,Boston,Boston
+2019020352,Montreal,NY Rangers,5,6,Montreal,NY Rangers
+2019020353,Tampa Bay,Anaheim,6,2,Anaheim,Tampa Bay
+2019020354,New Jersey,Detroit,5,1,Detroit,New Jersey
+2019020355,Carolina,Florida,4,2,Carolina,Carolina
+2019020358,St Louis,Nashville,2,4,Nashville,Nashville
+2019020359,Dallas,Chicago,2,1,Chicago,Dallas
+2019020360,Vegas,Edmonton,2,4,Edmonton,Edmonton
+2019020361,San Jose,NY Islanders,2,1,San Jose,San Jose
+2019020348,Washington,Vancouver,1,2,Washington,Vancouver
+2019020349,Philadelphia,Calgary,2,3,Philadelphia,Calgary
+2019020350,Los Angeles,Arizona,2,3,Los Angeles,Arizona
+2019020357,Colorado,Toronto,3,5,Colorado,Toronto
+2019020356,Winnipeg,Columbus,4,3,Winnipeg,Winnipeg
+2019020351,Boston,Minnesota,5,4,Boston,Boston
+2019020352,Montreal,NY Rangers,5,6,Montreal,NY Rangers
+2019020353,Tampa Bay,Anaheim,6,2,Anaheim,Tampa Bay
+2019020354,New Jersey,Detroit,5,1,Detroit,New Jersey
+2019020355,Carolina,Florida,4,2,Carolina,Carolina
+2019020358,St Louis,Nashville,2,4,Nashville,Nashville
+2019020359,Dallas,Chicago,2,1,Chicago,Dallas
+2019020360,Vegas,Edmonton,2,4,Edmonton,Edmonton
+2019020361,San Jose,NY Islanders,2,1,San Jose,San Jose
+2019020362,Florida,Buffalo,2,5,Florida,Buffalo
+2019020363,Detroit,Carolina,0,2,Carolina,Carolina
+2019020364,Arizona,Edmonton,3,4,Edmonton,Edmonton
+2019020362,Florida,Buffalo,2,5,Florida,Buffalo
+2019020363,Detroit,Carolina,0,2,Carolina,Carolina
+2019020364,Arizona,Edmonton,3,4,Edmonton,Edmonton
+2019020365,Tampa Bay,Buffalo,5,2,Buffalo,Tampa Bay
+2019020366,NY Rangers,Minnesota,3,2,Minnesota,NY Rangers
+2019020367,Philadelphia,Vancouver,2,1,Philadelphia,Philadelphia
+2019020368,Pittsburgh,Calgary,3,2,Pittsburgh,Pittsburgh
+2019020369,Columbus,Ottawa,1,0,Columbus,Columbus
+2019020370,Nashville,St Louis,3,2,St Louis,Nashville
+2019020371,Dallas,Vegas,4,2,Vegas,Dallas
+2019020372,Anaheim,NY Islanders,3,0,Anaheim,Anaheim
+2019020373,Los Angeles,San Jose,3,4,San Jose,San Jose
+2019020365,Tampa Bay,Buffalo,5,2,Buffalo,Tampa Bay
+2019020366,NY Rangers,Minnesota,3,2,Minnesota,NY Rangers
+2019020367,Philadelphia,Vancouver,2,1,Philadelphia,Philadelphia
+2019020368,Pittsburgh,Calgary,3,2,Pittsburgh,Pittsburgh
+2019020369,Columbus,Ottawa,1,0,Columbus,Columbus
+2019020370,Nashville,St Louis,3,2,St Louis,Nashville
+2019020371,Dallas,Vegas,4,2,Vegas,Dallas
+2019020372,Anaheim,NY Islanders,3,0,Anaheim,Anaheim
+2019020373,Los Angeles,San Jose,3,4,San Jose,San Jose
+2019020374,Montreal,Boston,1,8,Boston,Boston
+2019020375,New Jersey,Minnesota,2,3,Minnesota,Minnesota
+2019020376,Chicago,Dallas,3,0,Chicago,Chicago
+2019020374,Montreal,Boston,1,8,Boston,Boston
+2019020375,New Jersey,Minnesota,2,3,Minnesota,Minnesota
+2019020376,Chicago,Dallas,3,0,Chicago,Chicago
+2019020377,Buffalo,Calgary,2,3,Buffalo,Calgary
+2019020378,Ottawa,Boston,1,2,Ottawa,Boston
+2019020379,Detroit,Toronto,0,6,Toronto,Toronto
+2019020380,Tampa Bay,St Louis,3,4,Tampa Bay,St Louis
+2019020381,NY Rangers,Carolina,3,2,NY Rangers,NY Rangers
+2019020382,Pittsburgh,Vancouver,8,6,Pittsburgh,Pittsburgh
+2019020383,Washington,Florida,4,3,Florida,Washington
+2019020384,Columbus,Philadelphia,2,3,Philadelphia,Philadelphia
+2019020385,Nashville,Vegas,3,4,Vegas,Vegas
+2019020386,Arizona,Anaheim,4,3,Arizona,Arizona
+2019020387,Colorado,Edmonton,4,1,Colorado,Colorado
+2019020388,Los Angeles,NY Islanders,4,1,Los Angeles,Los Angeles
+2019020389,San Jose,Winnipeg,1,5,Winnipeg,Winnipeg
+2019020377,Buffalo,Calgary,2,3,Buffalo,Calgary
+2019020378,Ottawa,Boston,1,2,Ottawa,Boston
+2019020379,Detroit,Toronto,0,6,Toronto,Toronto
+2019020380,Tampa Bay,St Louis,3,4,Tampa Bay,St Louis
+2019020381,NY Rangers,Carolina,3,2,NY Rangers,NY Rangers
+2019020382,Pittsburgh,Vancouver,8,6,Pittsburgh,Pittsburgh
+2019020383,Washington,Florida,4,3,Florida,Washington
+2019020384,Columbus,Philadelphia,2,3,Philadelphia,Philadelphia
+2019020385,Nashville,Vegas,3,4,Vegas,Vegas
+2019020386,Arizona,Anaheim,4,3,Arizona,Arizona
+2019020387,Colorado,Edmonton,4,1,Colorado,Colorado
+2019020388,Los Angeles,NY Islanders,4,1,Los Angeles,Los Angeles
+2019020389,San Jose,Winnipeg,1,5,Winnipeg,Winnipeg
+2019020390,Montreal,New Jersey,4,6,Montreal,New Jersey
+2019020390,Montreal,New Jersey,4,6,Montreal,New Jersey
+2019020391,Boston,NY Rangers,3,2,NY Rangers,Boston
+2019020396,Anaheim,Winnipeg,0,3,Winnipeg,Winnipeg
+2019020397,San Jose,Los Angeles,4,1,San Jose,San Jose
+2019020394,Chicago,Colorado,2,5,Colorado,Colorado
+2019020395,Minnesota,Ottawa,7,2,Minnesota,Minnesota
+2019020392,Buffalo,Toronto,6,4,Toronto,Buffalo
+2019020393,Philadelphia,Detroit,6,1,Philadelphia,Philadelphia
+2019020398,Washington,Tampa Bay,4,3,Tampa Bay,Washington
+2019020399,Vegas,Arizona,2,1,Vegas,Vegas
+2019020400,Columbus,Pittsburgh,5,2,Columbus,Columbus
+2019020401,Carolina,Nashville,0,3,Nashville,Nashville
+2019020402,Dallas,St Louis,1,3,Dallas,St Louis
+2019020391,Boston,NY Rangers,3,2,NY Rangers,Boston
+2019020396,Anaheim,Winnipeg,0,3,Winnipeg,Winnipeg
+2019020397,San Jose,Los Angeles,4,1,San Jose,San Jose
+2019020394,Chicago,Colorado,2,5,Colorado,Colorado
+2019020395,Minnesota,Ottawa,7,2,Minnesota,Minnesota
+2019020392,Buffalo,Toronto,6,4,Toronto,Buffalo
+2019020393,Philadelphia,Detroit,6,1,Philadelphia,Philadelphia
+2019020398,Washington,Tampa Bay,4,3,Tampa Bay,Washington
+2019020399,Vegas,Arizona,2,1,Vegas,Vegas
+2019020400,Columbus,Pittsburgh,5,2,Columbus,Columbus
+2019020401,Carolina,Nashville,0,3,Nashville,Nashville
+2019020402,Dallas,St Louis,1,3,Dallas,St Louis
+2019020403,New Jersey,NY Rangers,0,4,NY Rangers,NY Rangers
+2019020404,Montreal,Philadelphia,3,4,Philadelphia,Philadelphia
+2019020410,Calgary,Ottawa,3,1,Ottawa,Calgary
+2019020405,Toronto,Buffalo,2,1,Toronto,Toronto
+2019020406,Detroit,Washington,2,5,Washington,Washington
+2019020407,Tampa Bay,Carolina,2,3,Tampa Bay,Carolina
+2019020408,Florida,Nashville,3,0,Florida,Florida
+2019020409,NY Islanders,Columbus,2,0,NY Islanders,NY Islanders
+2019020412,Arizona,San Jose,2,4,Arizona,San Jose
+2019020411,St Louis,Pittsburgh,5,2,Pittsburgh,St Louis
+2019020413,Colorado,Chicago,7,3,Chicago,Colorado
+2019020415,Los Angeles,Winnipeg,2,1,Winnipeg,Los Angeles
+2019020414,Edmonton,Vancouver,2,5,Edmonton,Vancouver
+2019020403,New Jersey,NY Rangers,0,4,NY Rangers,NY Rangers
+2019020404,Montreal,Philadelphia,3,4,Philadelphia,Philadelphia
+2019020410,Calgary,Ottawa,3,1,Ottawa,Calgary
+2019020405,Toronto,Buffalo,2,1,Toronto,Toronto
+2019020406,Detroit,Washington,2,5,Washington,Washington
+2019020407,Tampa Bay,Carolina,2,3,Tampa Bay,Carolina
+2019020408,Florida,Nashville,3,0,Florida,Florida
+2019020409,NY Islanders,Columbus,2,0,NY Islanders,NY Islanders
+2019020412,Arizona,San Jose,2,4,Arizona,San Jose
+2019020411,St Louis,Pittsburgh,5,2,Pittsburgh,St Louis
+2019020413,Colorado,Chicago,7,3,Chicago,Colorado
+2019020415,Los Angeles,Winnipeg,2,1,Winnipeg,Los Angeles
+2019020414,Edmonton,Vancouver,2,5,Edmonton,Vancouver
+2019020416,Minnesota,Dallas,3,2,Minnesota,Minnesota
+2019020417,Boston,Montreal,3,1,Montreal,Boston
+2019020418,Vancouver,Edmonton,2,3,Vancouver,Edmonton
+2019020416,Minnesota,Dallas,3,2,Minnesota,Minnesota
+2019020417,Boston,Montreal,3,1,Montreal,Boston
+2019020418,Vancouver,Edmonton,2,3,Vancouver,Edmonton
+2019020419,Buffalo,New Jersey,7,1,Buffalo,Buffalo
+2019020420,NY Rangers,Vegas,1,4,Vegas,Vegas
+2019020421,Detroit,NY Islanders,1,4,Detroit,NY Islanders
+2019020422,Chicago,St Louis,0,4,St Louis,St Louis
+2019020423,Anaheim,Los Angeles,4,2,Los Angeles,Anaheim
+2019020419,Buffalo,New Jersey,7,1,Buffalo,Buffalo
+2019020420,NY Rangers,Vegas,1,4,Vegas,Vegas
+2019020421,Detroit,NY Islanders,1,4,Detroit,NY Islanders
+2019020422,Chicago,St Louis,0,4,St Louis,St Louis
+2019020423,Anaheim,Los Angeles,4,2,Los Angeles,Anaheim
+2019020424,Boston,Carolina,2,0,Boston,Boston
+2019020425,Montreal,NY Islanders,4,2,Montreal,Montreal
+2019020426,Florida,Minnesota,2,4,Minnesota,Minnesota
+2019020427,New Jersey,Vegas,3,4,Vegas,Vegas
+2019020428,Philadelphia,Toronto,6,1,Philadelphia,Philadelphia
+2019020429,Columbus,Arizona,2,4,Arizona,Arizona
+2019020430,Nashville,Tampa Bay,2,3,Nashville,Tampa Bay
+2019020431,Winnipeg,Dallas,5,1,Winnipeg,Winnipeg
+2019020432,Vancouver,Ottawa,5,2,Vancouver,Vancouver
+2019020433,San Jose,Washington,2,5,Washington,Washington
+2019020424,Boston,Carolina,2,0,Boston,Boston
+2019020425,Montreal,NY Islanders,4,2,Montreal,Montreal
+2019020426,Florida,Minnesota,2,4,Minnesota,Minnesota
+2019020427,New Jersey,Vegas,3,4,Vegas,Vegas
+2019020428,Philadelphia,Toronto,6,1,Philadelphia,Philadelphia
+2019020429,Columbus,Arizona,2,4,Arizona,Arizona
+2019020430,Nashville,Tampa Bay,2,3,Nashville,Tampa Bay
+2019020431,Winnipeg,Dallas,5,1,Winnipeg,Winnipeg
+2019020432,Vancouver,Ottawa,5,2,Vancouver,Vancouver
+2019020433,San Jose,Washington,2,5,Washington,Washington
+2019020434,Toronto,Colorado,1,3,Colorado,Colorado
+2019020435,Pittsburgh,St Louis,3,0,Pittsburgh,Pittsburgh
+2019020436,Edmonton,Ottawa,2,5,Ottawa,Ottawa
+2019020437,Los Angeles,Washington,1,3,Los Angeles,Washington
+2019020434,Toronto,Colorado,1,3,Colorado,Colorado
+2019020435,Pittsburgh,St Louis,3,0,Pittsburgh,Pittsburgh
+2019020436,Edmonton,Ottawa,2,5,Ottawa,Ottawa
+2019020437,Los Angeles,Washington,1,3,Los Angeles,Washington
+2019020438,Boston,Chicago,3,4,Chicago,Chicago
+2019020439,Montreal,Colorado,2,3,Colorado,Colorado
+2019020440,Tampa Bay,Minnesota,4,5,Tampa Bay,Minnesota
+2019020441,NY Islanders,Vegas,3,2,NY Islanders,NY Islanders
+2019020442,Philadelphia,Arizona,1,3,Arizona,Arizona
+2019020443,Carolina,San Jose,3,2,Carolina,Carolina
+2019020444,Columbus,NY Rangers,2,3,NY Rangers,NY Rangers
+2019020445,Dallas,Winnipeg,3,2,Dallas,Dallas
+2019020446,Calgary,Buffalo,4,3,Calgary,Calgary
+2019020438,Boston,Chicago,3,4,Chicago,Chicago
+2019020439,Montreal,Colorado,2,3,Colorado,Colorado
+2019020440,Tampa Bay,Minnesota,4,5,Tampa Bay,Minnesota
+2019020441,NY Islanders,Vegas,3,2,NY Islanders,NY Islanders
+2019020442,Philadelphia,Arizona,1,3,Arizona,Arizona
+2019020443,Carolina,San Jose,3,2,Carolina,Carolina
+2019020444,Columbus,NY Rangers,2,3,NY Rangers,NY Rangers
+2019020445,Dallas,Winnipeg,3,2,Dallas,Dallas
+2019020446,Calgary,Buffalo,4,3,Calgary,Calgary
+2019020447,New Jersey,Chicago,1,2,Chicago,Chicago
+2019020448,NY Rangers,Montreal,1,2,NY Rangers,Montreal
+2019020449,Pittsburgh,Arizona,2,0,Pittsburgh,Pittsburgh
+2019020450,Edmonton,Los Angeles,2,1,Los Angeles,Edmonton
+2019020451,Anaheim,Washington,2,3,Washington,Washington
+2019020447,New Jersey,Chicago,1,2,Chicago,Chicago
+2019020448,NY Rangers,Montreal,1,2,NY Rangers,Montreal
+2019020449,Pittsburgh,Arizona,2,0,Pittsburgh,Pittsburgh
+2019020450,Edmonton,Los Angeles,2,1,Los Angeles,Edmonton
+2019020451,Anaheim,Washington,2,3,Washington,Washington
+2019020452,Philadelphia,Ottawa,4,3,Ottawa,Philadelphia
+2019020453,Vancouver,Buffalo,6,5,Vancouver,Vancouver
+2019020459,St Louis,Toronto,2,5,Toronto,Toronto
+2019020454,Boston,Colorado,1,4,Colorado,Colorado
+2019020455,Detroit,Pittsburgh,3,5,Detroit,Pittsburgh
+2019020456,Tampa Bay,San Jose,7,1,Tampa Bay,Tampa Bay
+2019020457,Florida,Columbus,4,1,Florida,Florida
+2019020458,Carolina,Minnesota,6,2,Carolina,Carolina
+2019020460,Nashville,New Jersey,6,4,Nashville,Nashville
+2019020461,Dallas,NY Islanders,3,1,Dallas,Dallas
+2019020462,Calgary,Los Angeles,4,3,Calgary,Calgary
+2019020452,Philadelphia,Ottawa,4,3,Ottawa,Philadelphia
+2019020453,Vancouver,Buffalo,6,5,Vancouver,Vancouver
+2019020459,St Louis,Toronto,2,5,Toronto,Toronto
+2019020454,Boston,Colorado,1,4,Colorado,Colorado
+2019020455,Detroit,Pittsburgh,3,5,Detroit,Pittsburgh
+2019020456,Tampa Bay,San Jose,7,1,Tampa Bay,Tampa Bay
+2019020457,Florida,Columbus,4,1,Florida,Florida
+2019020458,Carolina,Minnesota,6,2,Carolina,Carolina
+2019020460,Nashville,New Jersey,6,4,Nashville,Nashville
+2019020461,Dallas,NY Islanders,3,1,Dallas,Dallas
+2019020462,Calgary,Los Angeles,4,3,Calgary,Calgary
+2019020463,Winnipeg,Anaheim,3,2,Winnipeg,Winnipeg
+2019020464,Florida,San Jose,5,1,Florida,Florida
+2019020466,Vegas,NY Rangers,0,5,NY Rangers,NY Rangers
+2019020465,Chicago,Arizona,3,4,Chicago,Arizona
+2019020467,Edmonton,Buffalo,2,3,Edmonton,Buffalo
+2019020463,Winnipeg,Anaheim,3,2,Winnipeg,Winnipeg
+2019020464,Florida,San Jose,5,1,Florida,Florida
+2019020466,Vegas,NY Rangers,0,5,NY Rangers,NY Rangers
+2019020465,Chicago,Arizona,3,4,Chicago,Arizona
+2019020467,Edmonton,Buffalo,2,3,Edmonton,Buffalo
+2019020468,Tampa Bay,NY Islanders,1,5,NY Islanders,NY Islanders
+2019020469,Washington,Columbus,2,5,Columbus,Columbus
+2019020470,Ottawa,Boston,5,2,Ottawa,Ottawa
+2019020471,Colorado,Calgary,4,5,Calgary,Calgary
+2019020468,Tampa Bay,NY Islanders,1,5,NY Islanders,NY Islanders
+2019020469,Washington,Columbus,2,5,Columbus,Columbus
+2019020470,Ottawa,Boston,5,2,Ottawa,Ottawa
+2019020471,Colorado,Calgary,4,5,Calgary,Calgary
+2019020473,Florida,Tampa Bay,1,2,Tampa Bay,Tampa Bay
+2019020474,Pittsburgh,Montreal,1,4,Montreal,Montreal
+2019020472,Buffalo,St Louis,5,2,Buffalo,Buffalo
+2019020475,Nashville,San Jose,3,1,Nashville,Nashville
+2019020476,Minnesota,Anaheim,2,3,Minnesota,Anaheim
+2019020477,Winnipeg,Detroit,5,1,Detroit,Winnipeg
+2019020478,Dallas,New Jersey,2,0,Dallas,Dallas
+2019020479,Edmonton,Carolina,3,6,Carolina,Carolina
+2019020480,Arizona,Calgary,2,5,Calgary,Calgary
+2019020481,Vancouver,Toronto,1,4,Toronto,Toronto
+2019020482,Vegas,Chicago,5,1,Vegas,Vegas
+2019020483,Los Angeles,NY Rangers,3,1,Los Angeles,Los Angeles
+2019020473,Florida,Tampa Bay,1,2,Tampa Bay,Tampa Bay
+2019020474,Pittsburgh,Montreal,1,4,Montreal,Montreal
+2019020472,Buffalo,St Louis,5,2,Buffalo,Buffalo
+2019020475,Nashville,San Jose,3,1,Nashville,Nashville
+2019020476,Minnesota,Anaheim,2,3,Minnesota,Anaheim
+2019020477,Winnipeg,Detroit,5,1,Detroit,Winnipeg
+2019020478,Dallas,New Jersey,2,0,Dallas,Dallas
+2019020479,Edmonton,Carolina,3,6,Carolina,Carolina
+2019020480,Arizona,Calgary,2,5,Calgary,Calgary
+2019020481,Vancouver,Toronto,1,4,Toronto,Toronto
+2019020482,Vegas,Chicago,5,1,Vegas,Vegas
+2019020483,Los Angeles,NY Rangers,3,1,Los Angeles,Los Angeles
+2019020484,Washington,Boston,3,2,Washington,Washington
+2019020485,Montreal,Ottawa,3,2,Montreal,Montreal
+2019020486,Colorado,Philadelphia,3,1,Colorado,Colorado
+2019020484,Washington,Boston,3,2,Washington,Washington
+2019020485,Montreal,Ottawa,3,2,Montreal,Montreal
+2019020486,Colorado,Philadelphia,3,1,Colorado,Colorado
+2019020487,Buffalo,Nashville,4,3,Buffalo,Buffalo
+2019020488,Tampa Bay,Boston,3,2,Tampa Bay,Tampa Bay
+2019020489,Florida,NY Islanders,1,3,NY Islanders,NY Islanders
+2019020490,Pittsburgh,Columbus,1,0,Pittsburgh,Pittsburgh
+2019020491,Detroit,Winnipeg,5,2,Detroit,Detroit
+2019020492,St Louis,Vegas,4,2,St Louis,St Louis
+2019020493,Minnesota,Edmonton,6,5,Edmonton,Minnesota
+2019020494,Calgary,Toronto,4,2,Toronto,Calgary
+2019020495,Arizona,Chicago,5,2,Arizona,Arizona
+2019020496,Vancouver,Carolina,1,0,Vancouver,Vancouver
+2019020497,Anaheim,Los Angeles,1,2,Los Angeles,Los Angeles
+2019020498,San Jose,NY Rangers,3,6,NY Rangers,NY Rangers
+2019020487,Buffalo,Nashville,4,3,Buffalo,Buffalo
+2019020488,Tampa Bay,Boston,3,2,Tampa Bay,Tampa Bay
+2019020489,Florida,NY Islanders,1,3,NY Islanders,NY Islanders
+2019020490,Pittsburgh,Columbus,1,0,Pittsburgh,Pittsburgh
+2019020491,Detroit,Winnipeg,5,2,Detroit,Detroit
+2019020492,St Louis,Vegas,4,2,St Louis,St Louis
+2019020493,Minnesota,Edmonton,6,5,Edmonton,Minnesota
+2019020494,Calgary,Toronto,4,2,Toronto,Calgary
+2019020495,Arizona,Chicago,5,2,Arizona,Arizona
+2019020496,Vancouver,Carolina,1,0,Vancouver,Vancouver
+2019020497,Anaheim,Los Angeles,1,2,Los Angeles,Los Angeles
+2019020498,San Jose,NY Rangers,3,6,NY Rangers,NY Rangers
+2019020499,Dallas,Vegas,2,3,Dallas,Vegas
+2019020500,Colorado,New Jersey,3,1,Colorado,Colorado
+2019020499,Dallas,Vegas,2,3,Dallas,Vegas
+2019020500,Colorado,New Jersey,3,1,Colorado,Colorado
+2019020501,Ottawa,Columbus,4,3,Ottawa,Ottawa
+2019020502,NY Islanders,Buffalo,3,2,Buffalo,NY Islanders
+2019020504,Anaheim,NY Rangers,4,3,NY Rangers,Anaheim
+2019020503,Calgary,Carolina,0,4,Carolina,Carolina
+2019020505,Nashville,Dallas,1,4,Nashville,Dallas
+2019020511,Edmonton,Toronto,1,4,Toronto,Toronto
+2019020510,Minnesota,Philadelphia,4,1,Minnesota,Minnesota
+2019020506,Montreal,Detroit,1,2,Detroit,Detroit
+2019020507,Tampa Bay,Washington,2,5,Tampa Bay,Washington
+2019020508,Florida,Boston,2,4,Boston,Boston
+2019020509,Pittsburgh,Los Angeles,5,4,Los Angeles,Pittsburgh
+2019020513,Arizona,New Jersey,1,2,New Jersey,New Jersey
+2019020512,St Louis,Chicago,4,3,Chicago,St Louis
+2019020514,San Jose,Vancouver,4,2,San Jose,San Jose
+2019020501,Ottawa,Columbus,4,3,Ottawa,Ottawa
+2019020502,NY Islanders,Buffalo,3,2,Buffalo,NY Islanders
+2019020504,Anaheim,NY Rangers,4,3,NY Rangers,Anaheim
+2019020503,Calgary,Carolina,0,4,Carolina,Carolina
+2019020505,Nashville,Dallas,1,4,Nashville,Dallas
+2019020511,Edmonton,Toronto,1,4,Toronto,Toronto
+2019020510,Minnesota,Philadelphia,4,1,Minnesota,Minnesota
+2019020506,Montreal,Detroit,1,2,Detroit,Detroit
+2019020507,Tampa Bay,Washington,2,5,Tampa Bay,Washington
+2019020508,Florida,Boston,2,4,Boston,Boston
+2019020509,Pittsburgh,Los Angeles,5,4,Los Angeles,Pittsburgh
+2019020513,Arizona,New Jersey,1,2,New Jersey,New Jersey
+2019020512,St Louis,Chicago,4,3,Chicago,St Louis
+2019020514,San Jose,Vancouver,4,2,San Jose,San Jose
+2019020515,Winnipeg,Philadelphia,7,3,Philadelphia,Winnipeg
+2019020517,Chicago,Minnesota,5,3,Minnesota,Chicago
+2019020516,Detroit,Los Angeles,2,4,Los Angeles,Los Angeles
+2019020518,Vegas,Vancouver,6,3,Vegas,Vegas
+2019020515,Winnipeg,Philadelphia,7,3,Philadelphia,Winnipeg
+2019020517,Chicago,Minnesota,5,3,Minnesota,Chicago
+2019020516,Detroit,Los Angeles,2,4,Los Angeles,Los Angeles
+2019020518,Vegas,Vancouver,6,3,Vegas,Vegas
+2019020519,Florida,Ottawa,6,1,Florida,Florida
+2019020520,NY Rangers,Nashville,2,5,Nashville,Nashville
+2019020521,Columbus,Washington,3,0,Columbus,Columbus
+2019020522,St Louis,Colorado,5,2,Colorado,St Louis
+2019020523,Dallas,Edmonton,1,2,Dallas,Edmonton
+2019020519,Florida,Ottawa,6,1,Florida,Florida
+2019020520,NY Rangers,Nashville,2,5,Nashville,Nashville
+2019020521,Columbus,Washington,3,0,Columbus,Columbus
+2019020522,St Louis,Colorado,5,2,Colorado,St Louis
+2019020523,Dallas,Edmonton,1,2,Dallas,Edmonton
+2019020524,Boston,Los Angeles,3,4,Los Angeles,Los Angeles
+2019020525,Toronto,Buffalo,5,3,Toronto,Toronto
+2019020526,Tampa Bay,Ottawa,4,3,Tampa Bay,Tampa Bay
+2019020527,NY Islanders,Nashville,3,8,NY Islanders,Nashville
+2019020528,Philadelphia,Anaheim,4,1,Philadelphia,Philadelphia
+2019020529,Detroit,Columbus,3,5,Columbus,Columbus
+2019020530,Winnipeg,Carolina,3,6,Carolina,Carolina
+2019020531,Calgary,Pittsburgh,1,4,Calgary,Pittsburgh
+2019020532,Vancouver,Montreal,1,3,Montreal,Montreal
+2019020533,Vegas,Minnesota,3,2,Minnesota,Vegas
+2019020534,San Jose,Arizona,2,3,Arizona,Arizona
+2019020524,Boston,Los Angeles,3,4,Los Angeles,Los Angeles
+2019020525,Toronto,Buffalo,5,3,Toronto,Toronto
+2019020526,Tampa Bay,Ottawa,4,3,Tampa Bay,Tampa Bay
+2019020527,NY Islanders,Nashville,3,8,NY Islanders,Nashville
+2019020528,Philadelphia,Anaheim,4,1,Philadelphia,Philadelphia
+2019020529,Detroit,Columbus,3,5,Columbus,Columbus
+2019020530,Winnipeg,Carolina,3,6,Carolina,Carolina
+2019020531,Calgary,Pittsburgh,1,4,Calgary,Pittsburgh
+2019020532,Vancouver,Montreal,1,3,Montreal,Montreal
+2019020533,Vegas,Minnesota,3,2,Minnesota,Vegas
+2019020534,San Jose,Arizona,2,3,Arizona,Arizona
+2019020535,New Jersey,Anaheim,3,1,New Jersey,New Jersey
+2019020536,Chicago,Colorado,1,4,Colorado,Colorado
+2019020537,St Louis,Edmonton,2,1,St Louis,St Louis
+2019020535,New Jersey,Anaheim,3,1,New Jersey,New Jersey
+2019020536,Chicago,Colorado,1,4,Colorado,Colorado
+2019020537,St Louis,Edmonton,2,1,St Louis,St Louis
+2019020538,Boston,NY Islanders,2,3,NY Islanders,NY Islanders
+2019020539,Tampa Bay,Dallas,3,4,Tampa Bay,Dallas
+2019020540,Philadelphia,Buffalo,6,1,Philadelphia,Philadelphia
+2019020541,Columbus,Los Angeles,3,2,Los Angeles,Columbus
+2019020542,Ottawa,Nashville,5,4,Ottawa,Ottawa
+2019020543,Winnipeg,Chicago,1,4,Chicago,Chicago
+2019020544,Colorado,Carolina,1,3,Colorado,Carolina
+2019020545,Calgary,Montreal,3,4,Calgary,Montreal
+2019020546,Arizona,Minnesota,5,8,Minnesota,Minnesota
+2019020547,Vancouver,Vegas,5,4,Vegas,Vancouver
+2019020538,Boston,NY Islanders,2,3,NY Islanders,NY Islanders
+2019020539,Tampa Bay,Dallas,3,4,Tampa Bay,Dallas
+2019020540,Philadelphia,Buffalo,6,1,Philadelphia,Philadelphia
+2019020541,Columbus,Los Angeles,3,2,Los Angeles,Columbus
+2019020542,Ottawa,Nashville,5,4,Ottawa,Ottawa
+2019020543,Winnipeg,Chicago,1,4,Chicago,Chicago
+2019020544,Colorado,Carolina,1,3,Colorado,Carolina
+2019020545,Calgary,Montreal,3,4,Calgary,Montreal
+2019020546,Arizona,Minnesota,5,8,Minnesota,Minnesota
+2019020547,Vancouver,Vegas,5,4,Vegas,Vancouver
+2019020548,Florida,Dallas,7,4,Florida,Florida
+2019020549,New Jersey,Washington,3,6,New Jersey,Washington
+2019020550,NY Rangers,Toronto,3,6,NY Rangers,Toronto
+2019020551,Edmonton,Pittsburgh,2,5,Edmonton,Pittsburgh
+2019020548,Florida,Dallas,7,4,Florida,Florida
+2019020549,New Jersey,Washington,3,6,New Jersey,Washington
+2019020550,NY Rangers,Toronto,3,6,NY Rangers,Toronto
+2019020551,Edmonton,Pittsburgh,2,5,Edmonton,Pittsburgh
+2019020552,Buffalo,Los Angeles,3,2,Buffalo,Buffalo
+2019020553,NY Islanders,Anaheim,5,6,NY Islanders,Anaheim
+2019020554,Minnesota,Winnipeg,0,6,Winnipeg,Winnipeg
+2019020561,Edmonton,Montreal,4,3,Montreal,Edmonton
+2019020555,Boston,Nashville,3,4,Boston,Nashville
+2019020556,Toronto,Detroit,4,1,Toronto,Toronto
+2019020557,Ottawa,Philadelphia,4,5,Philadelphia,Philadelphia
+2019020558,Washington,Tampa Bay,3,1,Washington,Washington
+2019020559,Carolina,Florida,2,4,Florida,Florida
+2019020560,Columbus,New Jersey,5,1,Columbus,Columbus
+2019020562,Colorado,Chicago,3,5,Chicago,Chicago
+2019020563,Vancouver,Pittsburgh,4,1,Pittsburgh,Vancouver
+2019020564,San Jose,St Louis,2,5,San Jose,St Louis
+2019020552,Buffalo,Los Angeles,3,2,Buffalo,Buffalo
+2019020553,NY Islanders,Anaheim,5,6,NY Islanders,Anaheim
+2019020554,Minnesota,Winnipeg,0,6,Winnipeg,Winnipeg
+2019020561,Edmonton,Montreal,4,3,Montreal,Edmonton
+2019020555,Boston,Nashville,3,4,Boston,Nashville
+2019020556,Toronto,Detroit,4,1,Toronto,Toronto
+2019020557,Ottawa,Philadelphia,4,5,Philadelphia,Philadelphia
+2019020558,Washington,Tampa Bay,3,1,Washington,Washington
+2019020559,Carolina,Florida,2,4,Florida,Florida
+2019020560,Columbus,New Jersey,5,1,Columbus,Columbus
+2019020562,Colorado,Chicago,3,5,Chicago,Chicago
+2019020563,Vancouver,Pittsburgh,4,1,Pittsburgh,Vancouver
+2019020564,San Jose,St Louis,2,5,San Jose,St Louis
+2019020565,NY Rangers,Anaheim,5,1,NY Rangers,NY Rangers
+2019020567,Dallas,Calgary,1,5,Calgary,Calgary
+2019020566,Detroit,Arizona,2,5,Arizona,Arizona
+2019020568,San Jose,Vegas,1,3,Vegas,Vegas
+2019020565,NY Rangers,Anaheim,5,1,NY Rangers,NY Rangers
+2019020567,Dallas,Calgary,1,5,Calgary,Calgary
+2019020566,Detroit,Arizona,2,5,Arizona,Arizona
+2019020568,San Jose,Vegas,1,3,Vegas,Vegas
+2019020569,Toronto,Carolina,8,6,Toronto,Toronto
+2019020570,Minnesota,Calgary,3,0,Minnesota,Minnesota
+2019020571,Boston,Washington,7,3,Boston,Boston
+2019020572,Tampa Bay,Florida,6,1,Tampa Bay,Tampa Bay
+2019020573,NY Islanders,Columbus,2,3,Columbus,Columbus
+2019020574,Philadelphia,NY Rangers,5,1,NY Rangers,Philadelphia
+2019020575,Ottawa,Buffalo,3,1,Ottawa,Ottawa
+2019020576,Nashville,Arizona,3,2,Nashville,Nashville
+2019020577,Winnipeg,Montreal,2,6,Montreal,Montreal
+2019020578,Chicago,New Jersey,1,7,New Jersey,New Jersey
+2019020579,Vancouver,Edmonton,4,2,Edmonton,Vancouver
+2019020580,Vegas,Colorado,3,7,Vegas,Colorado
+2019020581,Los Angeles,St Louis,1,4,St Louis,St Louis
+2019020569,Toronto,Carolina,8,6,Toronto,Toronto
+2019020570,Minnesota,Calgary,3,0,Minnesota,Minnesota
+2019020571,Boston,Washington,7,3,Boston,Boston
+2019020572,Tampa Bay,Florida,6,1,Tampa Bay,Tampa Bay
+2019020573,NY Islanders,Columbus,2,3,Columbus,Columbus
+2019020574,Philadelphia,NY Rangers,5,1,NY Rangers,Philadelphia
+2019020575,Ottawa,Buffalo,3,1,Ottawa,Ottawa
+2019020576,Nashville,Arizona,3,2,Nashville,Nashville
+2019020577,Winnipeg,Montreal,2,6,Montreal,Montreal
+2019020578,Chicago,New Jersey,1,7,New Jersey,New Jersey
+2019020579,Vancouver,Edmonton,4,2,Edmonton,Vancouver
+2019020580,Vegas,Colorado,3,7,Vegas,Colorado
+2019020581,Los Angeles,St Louis,1,4,St Louis,St Louis
+2019020582,Buffalo,Boston,0,3,Boston,Boston
+2019020583,New Jersey,Toronto,4,5,New Jersey,Toronto
+2019020584,NY Rangers,Carolina,5,3,NY Rangers,NY Rangers
+2019020585,Washington,Columbus,2,1,Columbus,Washington
+2019020588,Colorado,Minnesota,4,6,Minnesota,Minnesota
+2019020586,Nashville,Pittsburgh,2,5,Pittsburgh,Pittsburgh
+2019020587,Winnipeg,St Louis,4,5,St Louis,St Louis
+2019020589,Chicago,NY Islanders,5,2,Chicago,Chicago
+2019020590,Edmonton,Calgary,1,5,Calgary,Calgary
+2019020591,Anaheim,Vegas,4,3,Vegas,Anaheim
+2019020592,San Jose,Los Angeles,2,3,San Jose,Los Angeles
+2019020582,Buffalo,Boston,0,3,Boston,Boston
+2019020583,New Jersey,Toronto,4,5,New Jersey,Toronto
+2019020584,NY Rangers,Carolina,5,3,NY Rangers,NY Rangers
+2019020585,Washington,Columbus,2,1,Columbus,Washington
+2019020588,Colorado,Minnesota,4,6,Minnesota,Minnesota
+2019020586,Nashville,Pittsburgh,2,5,Pittsburgh,Pittsburgh
+2019020587,Winnipeg,St Louis,4,5,St Louis,St Louis
+2019020589,Chicago,NY Islanders,5,2,Chicago,Chicago
+2019020590,Edmonton,Calgary,1,5,Calgary,Calgary
+2019020591,Anaheim,Vegas,4,3,Vegas,Anaheim
+2019020592,San Jose,Los Angeles,2,3,San Jose,Los Angeles
+2019020598,Dallas,Colorado,3,2,Dallas,Dallas
+2019020593,Toronto,NY Rangers,4,5,NY Rangers,NY Rangers
+2019020594,Tampa Bay,Montreal,5,4,Tampa Bay,Tampa Bay
+2019020595,Florida,Detroit,5,4,Detroit,Florida
+2019020596,Pittsburgh,Nashville,6,4,Nashville,Pittsburgh
+2019020597,Carolina,Washington,6,4,Carolina,Carolina
+2019020599,Vancouver,Los Angeles,3,2,Los Angeles,Vancouver
+2019020600,Vegas,Arizona,4,1,Vegas,Vegas
+2019020601,San Jose,Philadelphia,6,1,San Jose,San Jose
+2019020598,Dallas,Colorado,3,2,Dallas,Dallas
+2019020593,Toronto,NY Rangers,4,5,NY Rangers,NY Rangers
+2019020594,Tampa Bay,Montreal,5,4,Tampa Bay,Tampa Bay
+2019020595,Florida,Detroit,5,4,Detroit,Florida
+2019020596,Pittsburgh,Nashville,6,4,Nashville,Pittsburgh
+2019020597,Carolina,Washington,6,4,Carolina,Carolina
+2019020599,Vancouver,Los Angeles,3,2,Los Angeles,Vancouver
+2019020600,Vegas,Arizona,4,1,Vegas,Vegas
+2019020601,San Jose,Philadelphia,6,1,San Jose,San Jose
+2019020602,St Louis,Winnipeg,4,1,Winnipeg,St Louis
+2019020603,Ottawa,New Jersey,3,4,Ottawa,New Jersey
+2019020604,Columbus,Chicago,2,3,Chicago,Chicago
+2019020605,Minnesota,NY Islanders,1,3,NY Islanders,NY Islanders
+2019020606,Boston,Buffalo,3,2,Buffalo,Boston
+2019020607,Tampa Bay,Detroit,2,1,Tampa Bay,Tampa Bay
+2019020608,Florida,Montreal,6,5,Montreal,Florida
+2019020609,Arizona,Dallas,2,4,Arizona,Dallas
+2019020610,Anaheim,Philadelphia,1,2,Philadelphia,Philadelphia
+2019020611,Calgary,Vancouver,2,5,Calgary,Vancouver
+2019020602,St Louis,Winnipeg,4,1,Winnipeg,St Louis
+2019020603,Ottawa,New Jersey,3,4,Ottawa,New Jersey
+2019020604,Columbus,Chicago,2,3,Chicago,Chicago
+2019020605,Minnesota,NY Islanders,1,3,NY Islanders,NY Islanders
+2019020606,Boston,Buffalo,3,2,Buffalo,Boston
+2019020607,Tampa Bay,Detroit,2,1,Tampa Bay,Tampa Bay
+2019020608,Florida,Montreal,6,5,Montreal,Florida
+2019020609,Arizona,Dallas,2,4,Arizona,Dallas
+2019020610,Anaheim,Philadelphia,1,2,Philadelphia,Philadelphia
+2019020611,Calgary,Vancouver,2,5,Calgary,Vancouver
+2019020612,Pittsburgh,Ottawa,5,2,Ottawa,Pittsburgh
+2019020612,Pittsburgh,Ottawa,5,2,Ottawa,Pittsburgh
+2019020613,New Jersey,Boston,3,2,Boston,New Jersey
+2019020614,Washington,NY Islanders,3,4,Washington,NY Islanders
+2019020615,Vegas,Anaheim,5,2,Vegas,Vegas
+2019020616,Minnesota,Toronto,1,4,Toronto,Toronto
+2019020617,Buffalo,Tampa Bay,4,6,Buffalo,Tampa Bay
+2019020618,Carolina,Montreal,3,1,Carolina,Carolina
+2019020619,Columbus,Florida,4,1,Florida,Columbus
+2019020620,Detroit,San Jose,2,0,Detroit,Detroit
+2019020621,Colorado,Winnipeg,4,7,Winnipeg,Winnipeg
+2019020625,Los Angeles,Philadelphia,5,3,Philadelphia,Los Angeles
+2019020622,Calgary,Chicago,3,5,Chicago,Chicago
+2019020623,Edmonton,NY Rangers,7,5,Edmonton,Edmonton
+2019020624,Arizona,St Louis,3,1,Arizona,Arizona
+2019020613,New Jersey,Boston,3,2,Boston,New Jersey
+2019020614,Washington,NY Islanders,3,4,Washington,NY Islanders
+2019020615,Vegas,Anaheim,5,2,Vegas,Vegas
+2019020616,Minnesota,Toronto,1,4,Toronto,Toronto
+2019020617,Buffalo,Tampa Bay,4,6,Buffalo,Tampa Bay
+2019020618,Carolina,Montreal,3,1,Carolina,Carolina
+2019020619,Columbus,Florida,4,1,Florida,Columbus
+2019020620,Detroit,San Jose,2,0,Detroit,Detroit
+2019020621,Colorado,Winnipeg,4,7,Winnipeg,Winnipeg
+2019020625,Los Angeles,Philadelphia,5,3,Philadelphia,Los Angeles
+2019020622,Calgary,Chicago,3,5,Chicago,Chicago
+2019020623,Edmonton,NY Rangers,7,5,Edmonton,Edmonton
+2019020624,Arizona,St Louis,3,1,Arizona,Arizona
+2019020626,Dallas,Nashville,4,2,Dallas,Dallas
+2019020626,Dallas,Nashville,4,2,Dallas,Dallas
+2019020627,Boston,Columbus,1,2,Boston,Columbus
+2019020628,Buffalo,Edmonton,3,2,Buffalo,Buffalo
+2019020629,Montreal,Tampa Bay,1,2,Montreal,Tampa Bay
+2019020630,NY Islanders,New Jersey,1,2,NY Islanders,New Jersey
+2019020631,Pittsburgh,San Jose,2,3,San Jose,San Jose
+2019020632,Ottawa,Florida,3,6,Florida,Florida
+2019020633,Winnipeg,Toronto,3,6,Winnipeg,Toronto
+2019020635,Calgary,NY Rangers,4,3,NY Rangers,Calgary
+2019020636,Arizona,Anaheim,4,2,Anaheim,Arizona
+2019020634,Colorado,St Louis,7,3,Colorado,Colorado
+2019020637,Vancouver,Chicago,7,5,Vancouver,Vancouver
+2019020638,Vegas,Philadelphia,5,4,Vegas,Vegas
+2019020627,Boston,Columbus,1,2,Boston,Columbus
+2019020628,Buffalo,Edmonton,3,2,Buffalo,Buffalo
+2019020629,Montreal,Tampa Bay,1,2,Montreal,Tampa Bay
+2019020630,NY Islanders,New Jersey,1,2,NY Islanders,New Jersey
+2019020631,Pittsburgh,San Jose,2,3,San Jose,San Jose
+2019020632,Ottawa,Florida,3,6,Florida,Florida
+2019020633,Winnipeg,Toronto,3,6,Winnipeg,Toronto
+2019020635,Calgary,NY Rangers,4,3,NY Rangers,Calgary
+2019020636,Arizona,Anaheim,4,2,Anaheim,Arizona
+2019020634,Colorado,St Louis,7,3,Colorado,Colorado
+2019020637,Vancouver,Chicago,7,5,Vancouver,Vancouver
+2019020638,Vegas,Philadelphia,5,4,Vegas,Vegas
+2019020639,Carolina,Washington,3,4,Washington,Washington
+2019020640,Dallas,Detroit,4,1,Dallas,Dallas
+2019020639,Carolina,Washington,3,4,Washington,Washington
+2019020640,Dallas,Detroit,4,1,Dallas,Dallas
+2019020641,Boston,Edmonton,1,4,Edmonton,Edmonton
+2019020642,Columbus,San Jose,2,3,San Jose,San Jose
+2019020645,Buffalo,Florida,3,2,Florida,Buffalo
+2019020643,Minnesota,Winnipeg,3,2,Minnesota,Minnesota
+2019020644,Vegas,St Louis,5,4,Vegas,Vegas
+2019020646,Toronto,NY Islanders,3,0,Toronto,Toronto
+2019020647,Montreal,Pittsburgh,2,3,Montreal,Pittsburgh
+2019020648,Ottawa,Tampa Bay,3,5,Ottawa,Tampa Bay
+2019020649,New Jersey,Colorado,2,5,Colorado,Colorado
+2019020650,Arizona,Philadelphia,6,2,Arizona,Arizona
+2019020651,Vancouver,NY Rangers,2,1,Vancouver,Vancouver
+2019020652,Los Angeles,Nashville,1,4,Nashville,Nashville
+2019020641,Boston,Edmonton,1,4,Edmonton,Edmonton
+2019020642,Columbus,San Jose,2,3,San Jose,San Jose
+2019020645,Buffalo,Florida,3,2,Florida,Buffalo
+2019020643,Minnesota,Winnipeg,3,2,Minnesota,Minnesota
+2019020644,Vegas,St Louis,5,4,Vegas,Vegas
+2019020646,Toronto,NY Islanders,3,0,Toronto,Toronto
+2019020647,Montreal,Pittsburgh,2,3,Montreal,Pittsburgh
+2019020648,Ottawa,Tampa Bay,3,5,Ottawa,Tampa Bay
+2019020649,New Jersey,Colorado,2,5,Colorado,Colorado
+2019020650,Arizona,Philadelphia,6,2,Arizona,Arizona
+2019020651,Vancouver,NY Rangers,2,1,Vancouver,Vancouver
+2019020652,Los Angeles,Nashville,1,4,Nashville,Nashville
+2019020653,Washington,San Jose,5,4,San Jose,Washington
+2019020654,Pittsburgh,Florida,1,4,Florida,Florida
+2019020655,Carolina,Tampa Bay,1,3,Tampa Bay,Tampa Bay
+2019020656,Minnesota,Calgary,4,5,Calgary,Calgary
+2019020657,Chicago,Detroit,4,2,Chicago,Chicago
+2019020658,Anaheim,Nashville,5,4,Nashville,Anaheim
+2019020653,Washington,San Jose,5,4,San Jose,Washington
+2019020654,Pittsburgh,Florida,1,4,Florida,Florida
+2019020655,Carolina,Tampa Bay,1,3,Tampa Bay,Tampa Bay
+2019020656,Minnesota,Calgary,4,5,Calgary,Calgary
+2019020657,Chicago,Detroit,4,2,Chicago,Chicago
+2019020658,Anaheim,Nashville,5,4,Nashville,Anaheim
+2019020659,Toronto,Edmonton,4,6,Edmonton,Edmonton
+2019020660,Montreal,Winnipeg,2,3,Winnipeg,Winnipeg
+2019020661,NY Islanders,Colorado,1,0,NY Islanders,NY Islanders
+2019020662,Los Angeles,Columbus,2,4,Los Angeles,Columbus
+2019020659,Toronto,Edmonton,4,6,Edmonton,Edmonton
+2019020660,Montreal,Winnipeg,2,3,Winnipeg,Winnipeg
+2019020661,NY Islanders,Colorado,1,0,NY Islanders,NY Islanders
+2019020662,Los Angeles,Columbus,2,4,Los Angeles,Columbus
+2019020663,Tampa Bay,Vancouver,9,2,Tampa Bay,Tampa Bay
+2019020664,Florida,Arizona,2,5,Arizona,Arizona
+2019020665,New Jersey,NY Islanders,3,4,New Jersey,NY Islanders
+2019020667,Washington,Ottawa,6,1,Washington,Washington
+2019020668,Carolina,Philadelphia,5,4,Carolina,Carolina
+2019020666,NY Rangers,Colorado,5,3,NY Rangers,NY Rangers
+2019020669,Detroit,Montreal,4,3,Montreal,Detroit
+2019020670,St Louis,San Jose,3,2,St Louis,St Louis
+2019020671,Nashville,Boston,2,6,Boston,Boston
+2019020672,Chicago,Calgary,1,2,Chicago,Calgary
+2019020673,Vegas,Pittsburgh,3,4,Pittsburgh,Pittsburgh
+2019020674,Anaheim,Columbus,3,4,Columbus,Columbus
+2019020663,Tampa Bay,Vancouver,9,2,Tampa Bay,Tampa Bay
+2019020664,Florida,Arizona,2,5,Arizona,Arizona
+2019020665,New Jersey,NY Islanders,3,4,New Jersey,NY Islanders
+2019020667,Washington,Ottawa,6,1,Washington,Washington
+2019020668,Carolina,Philadelphia,5,4,Carolina,Carolina
+2019020666,NY Rangers,Colorado,5,3,NY Rangers,NY Rangers
+2019020669,Detroit,Montreal,4,3,Montreal,Detroit
+2019020670,St Louis,San Jose,3,2,St Louis,St Louis
+2019020671,Nashville,Boston,2,6,Boston,Boston
+2019020672,Chicago,Calgary,1,2,Chicago,Calgary
+2019020673,Vegas,Pittsburgh,3,4,Pittsburgh,Pittsburgh
+2019020674,Anaheim,Columbus,3,4,Columbus,Columbus
+2019020675,Toronto,Winnipeg,3,4,Toronto,Winnipeg
+2019020676,Philadelphia,Washington,3,2,Philadelphia,Philadelphia
+2019020677,Los Angeles,Dallas,1,2,Los Angeles,Dallas
+2019020675,Toronto,Winnipeg,3,4,Toronto,Winnipeg
+2019020676,Philadelphia,Washington,3,2,Philadelphia,Philadelphia
+2019020677,Los Angeles,Dallas,1,2,Los Angeles,Dallas
+2019020678,Boston,Winnipeg,5,4,Winnipeg,Boston
+2019020679,Montreal,Edmonton,2,4,Montreal,Edmonton
+2019020680,Tampa Bay,Arizona,4,0,Tampa Bay,Tampa Bay
+2019020681,Florida,Vancouver,5,2,Florida,Florida
+2019020682,NY Rangers,New Jersey,6,3,New Jersey,NY Rangers
+2019020683,St Louis,Buffalo,5,1,Buffalo,St Louis
+2019020684,Chicago,Nashville,2,5,Chicago,Nashville
+2019020685,Calgary,Minnesota,2,1,Minnesota,Calgary
+2019020686,Vegas,Los Angeles,2,5,Los Angeles,Los Angeles
+2019020687,Anaheim,Dallas,0,3,Dallas,Dallas
+2019020688,San Jose,Columbus,3,1,San Jose,San Jose
+2019020678,Boston,Winnipeg,5,4,Winnipeg,Boston
+2019020679,Montreal,Edmonton,2,4,Montreal,Edmonton
+2019020680,Tampa Bay,Arizona,4,0,Tampa Bay,Tampa Bay
+2019020681,Florida,Vancouver,5,2,Florida,Florida
+2019020682,NY Rangers,New Jersey,6,3,New Jersey,NY Rangers
+2019020683,St Louis,Buffalo,5,1,Buffalo,St Louis
+2019020684,Chicago,Nashville,2,5,Chicago,Nashville
+2019020685,Calgary,Minnesota,2,1,Minnesota,Calgary
+2019020686,Vegas,Los Angeles,2,5,Los Angeles,Los Angeles
+2019020687,Anaheim,Dallas,0,3,Dallas,Dallas
+2019020688,San Jose,Columbus,3,1,San Jose,San Jose
+2019020689,Detroit,Ottawa,3,2,Detroit,Detroit
+2019020690,Carolina,Arizona,3,0,Carolina,Carolina
+2019020691,Colorado,Pittsburgh,3,4,Pittsburgh,Pittsburgh
+2019020689,Detroit,Ottawa,3,2,Detroit,Detroit
+2019020690,Carolina,Arizona,3,0,Carolina,Carolina
+2019020691,Colorado,Pittsburgh,3,4,Pittsburgh,Pittsburgh
+2019020692,Buffalo,Vancouver,3,6,Buffalo,Vancouver
+2019020693,Ottawa,Montreal,1,2,Ottawa,Montreal
+2019020694,NY Islanders,Boston,2,3,Boston,Boston
+2019020695,Philadelphia,Tampa Bay,0,1,Tampa Bay,Tampa Bay
+2019020696,Washington,New Jersey,1,5,New Jersey,New Jersey
+2019020697,Carolina,Los Angeles,2,0,Carolina,Carolina
+2019020698,St Louis,NY Rangers,5,2,NY Rangers,St Louis
+2019020699,Chicago,Anaheim,4,2,Chicago,Chicago
+2019020701,Vegas,Columbus,0,3,Columbus,Columbus
+2019020700,Calgary,Edmonton,4,3,Calgary,Calgary
+2019020702,San Jose,Dallas,2,1,Dallas,San Jose
+2019020692,Buffalo,Vancouver,3,6,Buffalo,Vancouver
+2019020693,Ottawa,Montreal,1,2,Ottawa,Montreal
+2019020694,NY Islanders,Boston,2,3,Boston,Boston
+2019020695,Philadelphia,Tampa Bay,0,1,Tampa Bay,Tampa Bay
+2019020696,Washington,New Jersey,1,5,New Jersey,New Jersey
+2019020697,Carolina,Los Angeles,2,0,Carolina,Carolina
+2019020698,St Louis,NY Rangers,5,2,NY Rangers,St Louis
+2019020699,Chicago,Anaheim,4,2,Chicago,Chicago
+2019020701,Vegas,Columbus,0,3,Columbus,Columbus
+2019020700,Calgary,Edmonton,4,3,Calgary,Calgary
+2019020702,San Jose,Dallas,2,1,Dallas,San Jose
+2019020703,Winnipeg,Nashville,0,1,Nashville,Nashville
+2019020704,Minnesota,Vancouver,1,4,Vancouver,Vancouver
+2019020705,Detroit,Buffalo,1,5,Buffalo,Buffalo
+2019020706,Arizona,Pittsburgh,3,4,Pittsburgh,Pittsburgh
+2019020707,Florida,Toronto,8,4,Florida,Florida
+2019020708,New Jersey,Tampa Bay,3,1,Tampa Bay,New Jersey
+2019020703,Winnipeg,Nashville,0,1,Nashville,Nashville
+2019020704,Minnesota,Vancouver,1,4,Vancouver,Vancouver
+2019020705,Detroit,Buffalo,1,5,Buffalo,Buffalo
+2019020706,Arizona,Pittsburgh,3,4,Pittsburgh,Pittsburgh
+2019020707,Florida,Toronto,8,4,Florida,Florida
+2019020708,New Jersey,Tampa Bay,3,1,Tampa Bay,New Jersey
+2019020709,Montreal,Calgary,2,0,Montreal,Montreal
+2019020710,NY Rangers,NY Islanders,6,2,NY Rangers,NY Rangers
+2019020711,Philadelphia,Boston,6,5,Philadelphia,Philadelphia
+2019020712,Washington,Carolina,2,0,Washington,Washington
+2019020713,St Louis,Anaheim,4,1,St Louis,St Louis
+2019020709,Montreal,Calgary,2,0,Montreal,Montreal
+2019020710,NY Rangers,NY Islanders,6,2,NY Rangers,NY Rangers
+2019020711,Philadelphia,Boston,6,5,Philadelphia,Philadelphia
+2019020712,Washington,Carolina,2,0,Washington,Washington
+2019020713,St Louis,Anaheim,4,1,St Louis,St Louis
+2019020714,Buffalo,Vegas,4,2,Buffalo,Buffalo
+2019020715,Toronto,New Jersey,7,4,Toronto,Toronto
+2019020716,Tampa Bay,Los Angeles,4,3,Los Angeles,Tampa Bay
+2019020717,NY Islanders,Detroit,8,2,NY Islanders,NY Islanders
+2019020718,Pittsburgh,Minnesota,7,3,Pittsburgh,Pittsburgh
+2019020719,Columbus,Boston,3,0,Columbus,Columbus
+2019020720,Ottawa,Chicago,2,3,Chicago,Chicago
+2019020721,Winnipeg,Vancouver,4,0,Winnipeg,Winnipeg
+2019020722,Colorado,Dallas,2,3,Dallas,Dallas
+2019020723,Edmonton,Nashville,4,2,Edmonton,Edmonton
+2019020724,Arizona,San Jose,6,3,Arizona,Arizona
+2019020714,Buffalo,Vegas,4,2,Buffalo,Buffalo
+2019020715,Toronto,New Jersey,7,4,Toronto,Toronto
+2019020716,Tampa Bay,Los Angeles,4,3,Los Angeles,Tampa Bay
+2019020717,NY Islanders,Detroit,8,2,NY Islanders,NY Islanders
+2019020718,Pittsburgh,Minnesota,7,3,Pittsburgh,Pittsburgh
+2019020719,Columbus,Boston,3,0,Columbus,Columbus
+2019020720,Ottawa,Chicago,2,3,Chicago,Chicago
+2019020721,Winnipeg,Vancouver,4,0,Winnipeg,Winnipeg
+2019020722,Colorado,Dallas,2,3,Dallas,Dallas
+2019020723,Edmonton,Nashville,4,2,Edmonton,Edmonton
+2019020724,Arizona,San Jose,6,3,Arizona,Arizona
+2019020725,Montreal,Chicago,1,4,Montreal,Chicago
+2019020726,St Louis,Philadelphia,3,4,Philadelphia,Philadelphia
+2019020725,Montreal,Chicago,1,4,Montreal,Chicago
+2019020726,St Louis,Philadelphia,3,4,Philadelphia,Philadelphia
+2019020727,Boston,Pittsburgh,4,1,Boston,Boston
+2019020728,Toronto,Calgary,1,2,Calgary,Calgary
+2019020729,Florida,Los Angeles,4,3,Florida,Florida
+2019020730,NY Islanders,NY Rangers,2,3,NY Islanders,NY Rangers
+2019020731,Philadelphia,Montreal,1,4,Montreal,Montreal
+2019020732,Washington,New Jersey,5,2,Washington,Washington
+2019020733,Columbus,Carolina,3,2,Carolina,Columbus
+2019020734,Ottawa,Vegas,2,4,Vegas,Vegas
+2019020735,Nashville,Anaheim,2,4,Anaheim,Anaheim
+2019020736,Minnesota,Tampa Bay,3,2,Tampa Bay,Minnesota
+2019020737,Dallas,Buffalo,1,4,Dallas,Buffalo
+2019020738,Colorado,San Jose,4,0,Colorado,Colorado
+2019020739,Vancouver,Arizona,3,1,Vancouver,Vancouver
+2019020727,Boston,Pittsburgh,4,1,Boston,Boston
+2019020728,Toronto,Calgary,1,2,Calgary,Calgary
+2019020729,Florida,Los Angeles,4,3,Florida,Florida
+2019020730,NY Islanders,NY Rangers,2,3,NY Islanders,NY Rangers
+2019020731,Philadelphia,Montreal,1,4,Montreal,Montreal
+2019020732,Washington,New Jersey,5,2,Washington,Washington
+2019020733,Columbus,Carolina,3,2,Carolina,Columbus
+2019020734,Ottawa,Vegas,2,4,Vegas,Vegas
+2019020735,Nashville,Anaheim,2,4,Anaheim,Anaheim
+2019020736,Minnesota,Tampa Bay,3,2,Tampa Bay,Minnesota
+2019020737,Dallas,Buffalo,1,4,Dallas,Buffalo
+2019020738,Colorado,San Jose,4,0,Colorado,Colorado
+2019020739,Vancouver,Arizona,3,1,Vancouver,Vancouver
+2019020740,Detroit,Pittsburgh,1,2,Detroit,Pittsburgh
+2019020741,Carolina,Anaheim,1,2,Anaheim,Anaheim
+2019020742,Winnipeg,Tampa Bay,1,7,Tampa Bay,Tampa Bay
+2019020740,Detroit,Pittsburgh,1,2,Detroit,Pittsburgh
+2019020741,Carolina,Anaheim,1,2,Anaheim,Anaheim
+2019020742,Winnipeg,Tampa Bay,1,7,Tampa Bay,Tampa Bay
+2019020743,NY Islanders,Washington,4,6,NY Islanders,Washington
+2019020744,Colorado,St Louis,5,3,Colorado,Colorado
+2019020745,Edmonton,Arizona,7,3,Edmonton,Edmonton
+2019020746,Ottawa,Calgary,5,2,Ottawa,Ottawa
+2019020747,Toronto,Chicago,2,6,Toronto,Chicago
+2019020748,Montreal,Vegas,5,4,Montreal,Montreal
+2019020749,Detroit,Florida,1,4,Detroit,Florida
+2019020750,Philadelphia,Los Angeles,4,1,Philadelphia,Philadelphia
+2019020751,Columbus,New Jersey,5,0,Columbus,Columbus
+2019020752,Nashville,Buffalo,2,1,Nashville,Nashville
+2019020753,Minnesota,Dallas,7,0,Minnesota,Minnesota
+2019020754,Vancouver,San Jose,4,1,Vancouver,Vancouver
+2019020743,NY Islanders,Washington,4,6,NY Islanders,Washington
+2019020744,Colorado,St Louis,5,3,Colorado,Colorado
+2019020745,Edmonton,Arizona,7,3,Edmonton,Edmonton
+2019020746,Ottawa,Calgary,5,2,Ottawa,Ottawa
+2019020747,Toronto,Chicago,2,6,Toronto,Chicago
+2019020748,Montreal,Vegas,5,4,Montreal,Montreal
+2019020749,Detroit,Florida,1,4,Detroit,Florida
+2019020750,Philadelphia,Los Angeles,4,1,Philadelphia,Philadelphia
+2019020751,Columbus,New Jersey,5,0,Columbus,Columbus
+2019020752,Nashville,Buffalo,2,1,Nashville,Nashville
+2019020753,Minnesota,Dallas,7,0,Minnesota,Minnesota
+2019020754,Vancouver,San Jose,4,1,Vancouver,Vancouver
+2019020755,Pittsburgh,Boston,4,3,Pittsburgh,Pittsburgh
+2019020756,Carolina,NY Islanders,2,1,NY Islanders,Carolina
+2019020758,Chicago,Winnipeg,5,2,Chicago,Chicago
+2019020757,NY Rangers,Columbus,1,2,Columbus,Columbus
+2019020755,Pittsburgh,Boston,4,3,Pittsburgh,Pittsburgh
+2019020756,Carolina,NY Islanders,2,1,NY Islanders,Carolina
+2019020758,Chicago,Winnipeg,5,2,Chicago,Chicago
+2019020757,NY Rangers,Columbus,1,2,Columbus,Columbus
+2019020759,Colorado,Detroit,6,3,Colorado,Colorado
+2019020760,Minnesota,Florida,4,5,Florida,Florida
+2019020759,Colorado,Detroit,6,3,Colorado,Colorado
+2019020760,Minnesota,Florida,4,5,Florida,Florida
+2019020761,Boston,Vegas,3,2,Vegas,Boston
+2019020762,NY Rangers,NY Islanders,2,4,NY Islanders,NY Islanders
+2019020764,Carolina,Winnipeg,4,1,Carolina,Carolina
+2019020763,Philadelphia,Pittsburgh,3,0,Philadelphia,Philadelphia
+2019020765,Chicago,Florida,3,4,Florida,Florida
+2019020761,Boston,Vegas,3,2,Vegas,Boston
+2019020762,NY Rangers,NY Islanders,2,4,NY Islanders,NY Islanders
+2019020764,Carolina,Winnipeg,4,1,Carolina,Carolina
+2019020763,Philadelphia,Pittsburgh,3,0,Philadelphia,Philadelphia
+2019020765,Chicago,Florida,3,4,Florida,Florida
+2019020766,Columbus,Winnipeg,4,3,Columbus,Columbus
+2019020767,Minnesota,Detroit,4,2,Minnesota,Minnesota
+2019020766,Columbus,Winnipeg,4,3,Columbus,Columbus
+2019020767,Minnesota,Detroit,4,2,Minnesota,Minnesota
+2019020768,Montreal,Washington,2,4,Washington,Washington
+2019020769,Ottawa,New Jersey,3,4,Ottawa,New Jersey
+2019020770,Nashville,Toronto,2,5,Toronto,Toronto
+2019020771,Dallas,Tampa Bay,3,2,Tampa Bay,Dallas
+2019020772,Vancouver,St Louis,3,1,Vancouver,Vancouver
+2019020773,San Jose,Anaheim,4,2,Anaheim,San Jose
+2019020768,Montreal,Washington,2,4,Washington,Washington
+2019020769,Ottawa,New Jersey,3,4,Ottawa,New Jersey
+2019020770,Nashville,Toronto,2,5,Toronto,Toronto
+2019020771,Dallas,Tampa Bay,3,2,Tampa Bay,Dallas
+2019020772,Vancouver,St Louis,3,1,Vancouver,Vancouver
+2019020773,San Jose,Anaheim,4,2,Anaheim,San Jose
+2019020774,Buffalo,Ottawa,2,5,Ottawa,Ottawa
+2019020775,Calgary,St Louis,4,5,St Louis,St Louis
+2019020774,Buffalo,Ottawa,2,5,Ottawa,Ottawa
+2019020775,Calgary,St Louis,4,5,St Louis,St Louis
+2019020777,Dallas,Toronto,3,5,Toronto,Toronto
+2019020776,Washington,Nashville,4,5,Washington,Nashville
+2019020779,Anaheim,Arizona,4,2,Anaheim,Anaheim
+2019020780,Los Angeles,Tampa Bay,2,4,Los Angeles,Tampa Bay
+2019020778,Edmonton,Calgary,3,4,Edmonton,Calgary
+2019020781,San Jose,Vancouver,2,5,San Jose,Vancouver
+2019020777,Dallas,Toronto,3,5,Toronto,Toronto
+2019020776,Washington,Nashville,4,5,Washington,Nashville
+2019020779,Anaheim,Arizona,4,2,Anaheim,Anaheim
+2019020780,Los Angeles,Tampa Bay,2,4,Los Angeles,Tampa Bay
+2019020778,Edmonton,Calgary,3,4,Edmonton,Calgary
+2019020781,San Jose,Vancouver,2,5,San Jose,Vancouver
+2019020782,Buffalo,Montreal,1,3,Montreal,Montreal
+2019020783,New Jersey,Nashville,5,6,New Jersey,Nashville
+2019020784,Arizona,Los Angeles,2,3,Arizona,Los Angeles
+2019020782,Buffalo,Montreal,1,3,Montreal,Montreal
+2019020783,New Jersey,Nashville,5,6,New Jersey,Nashville
+2019020784,Arizona,Los Angeles,2,3,Arizona,Los Angeles
+2019020785,NY Rangers,Detroit,4,2,NY Rangers,NY Rangers
+2019020786,Pittsburgh,Philadelphia,4,3,Pittsburgh,Pittsburgh
+2019020787,Ottawa,Washington,3,5,Ottawa,Washington
+2019020788,Carolina,Vegas,3,4,Carolina,Vegas
+2019020789,Winnipeg,Boston,1,2,Boston,Boston
+2019020790,Edmonton,St Louis,4,2,St Louis,Edmonton
+2019020791,Anaheim,Tampa Bay,3,4,Anaheim,Tampa Bay
+2019020785,NY Rangers,Detroit,4,2,NY Rangers,NY Rangers
+2019020786,Pittsburgh,Philadelphia,4,3,Pittsburgh,Pittsburgh
+2019020787,Ottawa,Washington,3,5,Ottawa,Washington
+2019020788,Carolina,Vegas,3,4,Carolina,Vegas
+2019020789,Winnipeg,Boston,1,2,Boston,Boston
+2019020790,Edmonton,St Louis,4,2,St Louis,Edmonton
+2019020791,Anaheim,Tampa Bay,3,4,Anaheim,Tampa Bay
+2019020792,Buffalo,Columbus,2,1,Columbus,Buffalo
+2019020793,NY Islanders,Vancouver,3,4,Vancouver,Vancouver
+2019020794,Montreal,Florida,4,0,Montreal,Montreal
+2019020799,Winnipeg,St Louis,5,2,Winnipeg,Winnipeg
+2019020795,Toronto,Ottawa,2,1,Ottawa,Toronto
+2019020796,Detroit,NY Rangers,0,1,NY Rangers,NY Rangers
+2019020797,New Jersey,Dallas,2,3,Dallas,Dallas
+2019020798,Philadelphia,Colorado,6,3,Colorado,Philadelphia
+2019020802,Arizona,Chicago,2,3,Chicago,Chicago
+2019020800,Nashville,Vegas,0,3,Vegas,Vegas
+2019020801,Minnesota,Boston,1,6,Boston,Boston
+2019020803,Calgary,Edmonton,3,8,Edmonton,Edmonton
+2019020804,Los Angeles,Anaheim,1,3,Anaheim,Anaheim
+2019020805,San Jose,Tampa Bay,0,3,Tampa Bay,Tampa Bay
+2019020792,Buffalo,Columbus,2,1,Columbus,Buffalo
+2019020793,NY Islanders,Vancouver,3,4,Vancouver,Vancouver
+2019020794,Montreal,Florida,4,0,Montreal,Montreal
+2019020799,Winnipeg,St Louis,5,2,Winnipeg,Winnipeg
+2019020795,Toronto,Ottawa,2,1,Ottawa,Toronto
+2019020796,Detroit,NY Rangers,0,1,NY Rangers,NY Rangers
+2019020797,New Jersey,Dallas,2,3,Dallas,Dallas
+2019020798,Philadelphia,Colorado,6,3,Colorado,Philadelphia
+2019020802,Arizona,Chicago,2,3,Chicago,Chicago
+2019020800,Nashville,Vegas,0,3,Vegas,Vegas
+2019020801,Minnesota,Boston,1,6,Boston,Boston
+2019020803,Calgary,Edmonton,3,8,Edmonton,Edmonton
+2019020804,Los Angeles,Anaheim,1,3,Anaheim,Anaheim
+2019020805,San Jose,Tampa Bay,0,3,Tampa Bay,Tampa Bay
+2019020806,Washington,Pittsburgh,3,4,Pittsburgh,Pittsburgh
+2019020807,Montreal,Columbus,3,4,Columbus,Columbus
+2019020808,Carolina,Vancouver,4,3,Carolina,Carolina
+2019020806,Washington,Pittsburgh,3,4,Pittsburgh,Pittsburgh
+2019020807,Montreal,Columbus,3,4,Columbus,Columbus
+2019020808,Carolina,Vancouver,4,3,Carolina,Carolina
+2019020809,Toronto,Florida,3,5,Toronto,Florida
+2019020810,NY Rangers,Dallas,3,5,Dallas,Dallas
+2019020811,Detroit,Philadelphia,0,3,Philadelphia,Philadelphia
+2019020809,Toronto,Florida,3,5,Toronto,Florida
+2019020810,NY Rangers,Dallas,3,5,Dallas,Dallas
+2019020811,Detroit,Philadelphia,0,3,Philadelphia,Philadelphia
+2019020812,Boston,Vancouver,4,0,Boston,Boston
+2019020813,Buffalo,Colorado,1,6,Buffalo,Colorado
+2019020814,Tampa Bay,Vegas,4,2,Vegas,Tampa Bay
+2019020815,New Jersey,Montreal,4,5,New Jersey,Montreal
+2019020816,NY Islanders,Dallas,4,3,NY Islanders,NY Islanders
+2019020817,Washington,Los Angeles,4,2,Washington,Washington
+2019020818,Columbus,Florida,1,0,Columbus,Columbus
+2019020819,Ottawa,Anaheim,2,3,Ottawa,Anaheim
+2019020820,St Louis,Carolina,6,3,Carolina,St Louis
+2019020821,Minnesota,Chicago,3,2,Minnesota,Minnesota
+2019020822,Winnipeg,Nashville,1,2,Nashville,Nashville
+2019020823,Calgary,San Jose,1,3,Calgary,San Jose
+2019020824,Arizona,Edmonton,3,0,Arizona,Arizona
+2019020812,Boston,Vancouver,4,0,Boston,Boston
+2019020813,Buffalo,Colorado,1,6,Buffalo,Colorado
+2019020814,Tampa Bay,Vegas,4,2,Vegas,Tampa Bay
+2019020815,New Jersey,Montreal,4,5,New Jersey,Montreal
+2019020816,NY Islanders,Dallas,4,3,NY Islanders,NY Islanders
+2019020817,Washington,Los Angeles,4,2,Washington,Washington
+2019020818,Columbus,Florida,1,0,Columbus,Columbus
+2019020819,Ottawa,Anaheim,2,3,Ottawa,Anaheim
+2019020820,St Louis,Carolina,6,3,Carolina,St Louis
+2019020821,Minnesota,Chicago,3,2,Minnesota,Minnesota
+2019020822,Winnipeg,Nashville,1,2,Nashville,Nashville
+2019020823,Calgary,San Jose,1,3,Calgary,San Jose
+2019020824,Arizona,Edmonton,3,0,Arizona,Arizona
+2019020825,NY Rangers,Toronto,5,3,Toronto,NY Rangers
+2019020826,Chicago,Boston,1,2,Chicago,Boston
+2019020825,NY Rangers,Toronto,5,3,Toronto,NY Rangers
+2019020826,Chicago,Boston,1,2,Chicago,Boston
+2019020827,Buffalo,Detroit,3,4,Buffalo,Detroit
+2019020828,Montreal,Anaheim,3,2,Anaheim,Montreal
+2019020829,Tampa Bay,Pittsburgh,4,2,Pittsburgh,Tampa Bay
+2019020830,Florida,Vegas,2,7,Vegas,Vegas
+2019020831,NY Islanders,Los Angeles,5,3,NY Islanders,NY Islanders
+2019020832,Philadelphia,New Jersey,0,5,New Jersey,New Jersey
+2019020833,Ottawa,Colorado,1,4,Colorado,Colorado
+2019020834,St Louis,Winnipeg,2,4,Winnipeg,Winnipeg
+2019020835,Minnesota,Vancouver,4,2,Vancouver,Minnesota
+2019020836,Calgary,Nashville,2,3,Nashville,Nashville
+2019020838,Arizona,Carolina,3,5,Arizona,Carolina
+2019020837,Edmonton,San Jose,3,6,San Jose,San Jose
+2019020827,Buffalo,Detroit,3,4,Buffalo,Detroit
+2019020828,Montreal,Anaheim,3,2,Anaheim,Montreal
+2019020829,Tampa Bay,Pittsburgh,4,2,Pittsburgh,Tampa Bay
+2019020830,Florida,Vegas,2,7,Vegas,Vegas
+2019020831,NY Islanders,Los Angeles,5,3,NY Islanders,NY Islanders
+2019020832,Philadelphia,New Jersey,0,5,New Jersey,New Jersey
+2019020833,Ottawa,Colorado,1,4,Colorado,Colorado
+2019020834,St Louis,Winnipeg,2,4,Winnipeg,Winnipeg
+2019020835,Minnesota,Vancouver,4,2,Vancouver,Minnesota
+2019020836,Calgary,Nashville,2,3,Nashville,Nashville
+2019020838,Arizona,Carolina,3,5,Arizona,Carolina
+2019020837,Edmonton,San Jose,3,6,San Jose,San Jose
+2019020839,Toronto,Anaheim,5,4,Toronto,Toronto
+2019020840,NY Rangers,Buffalo,2,3,Buffalo,Buffalo
+2019020841,Columbus,Detroit,2,0,Columbus,Columbus
+2019020842,Dallas,Minnesota,2,3,Dallas,Minnesota
+2019020839,Toronto,Anaheim,5,4,Toronto,Toronto
+2019020840,NY Rangers,Buffalo,2,3,Buffalo,Buffalo
+2019020841,Columbus,Detroit,2,0,Columbus,Columbus
+2019020842,Dallas,Minnesota,2,3,Dallas,Minnesota
+2019020843,Winnipeg,Ottawa,5,2,Winnipeg,Winnipeg
+2019020844,Boston,Arizona,4,2,Arizona,Boston
+2019020851,Edmonton,Nashville,3,2,Nashville,Edmonton
+2019020845,Montreal,Toronto,2,1,Toronto,Montreal
+2019020846,Tampa Bay,NY Islanders,3,1,Tampa Bay,Tampa Bay
+2019020847,Florida,Pittsburgh,2,3,Pittsburgh,Pittsburgh
+2019020848,New Jersey,Los Angeles,3,0,New Jersey,New Jersey
+2019020849,Washington,Philadelphia,2,7,Washington,Philadelphia
+2019020850,Columbus,Colorado,1,2,Columbus,Colorado
+2019020852,St Louis,Dallas,2,3,Dallas,Dallas
+2019020853,Vancouver,Calgary,2,6,Calgary,Calgary
+2019020854,Vegas,Carolina,5,6,Carolina,Carolina
+2019020843,Winnipeg,Ottawa,5,2,Winnipeg,Winnipeg
+2019020844,Boston,Arizona,4,2,Arizona,Boston
+2019020851,Edmonton,Nashville,3,2,Nashville,Edmonton
+2019020845,Montreal,Toronto,2,1,Toronto,Montreal
+2019020846,Tampa Bay,NY Islanders,3,1,Tampa Bay,Tampa Bay
+2019020847,Florida,Pittsburgh,2,3,Pittsburgh,Pittsburgh
+2019020848,New Jersey,Los Angeles,3,0,New Jersey,New Jersey
+2019020849,Washington,Philadelphia,2,7,Washington,Philadelphia
+2019020850,Columbus,Colorado,1,2,Columbus,Colorado
+2019020852,St Louis,Dallas,2,3,Dallas,Dallas
+2019020853,Vancouver,Calgary,2,6,Calgary,Calgary
+2019020854,Vegas,Carolina,5,6,Carolina,Carolina
+2019020855,Detroit,Boston,3,1,Detroit,Detroit
+2019020856,Buffalo,Anaheim,2,3,Buffalo,Anaheim
+2019020857,NY Rangers,Los Angeles,4,1,NY Rangers,NY Rangers
+2019020858,Winnipeg,Chicago,5,2,Winnipeg,Winnipeg
+2019020859,Minnesota,Colorado,2,3,Colorado,Colorado
+2019020855,Detroit,Boston,3,1,Detroit,Detroit
+2019020856,Buffalo,Anaheim,2,3,Buffalo,Anaheim
+2019020857,NY Rangers,Los Angeles,4,1,NY Rangers,NY Rangers
+2019020858,Winnipeg,Chicago,5,2,Winnipeg,Winnipeg
+2019020859,Minnesota,Colorado,2,3,Colorado,Colorado
+2019020860,Montreal,Arizona,2,3,Montreal,Arizona
+2019020861,Philadelphia,Florida,4,1,Philadelphia,Philadelphia
+2019020862,Washington,NY Islanders,3,5,NY Islanders,NY Islanders
+2019020863,Columbus,Tampa Bay,1,2,Columbus,Tampa Bay
+2019020864,Vancouver,Nashville,6,2,Vancouver,Vancouver
+2019020865,San Jose,Calgary,2,6,San Jose,Calgary
+2019020860,Montreal,Arizona,2,3,Montreal,Arizona
+2019020861,Philadelphia,Florida,4,1,Philadelphia,Philadelphia
+2019020862,Washington,NY Islanders,3,5,NY Islanders,NY Islanders
+2019020863,Columbus,Tampa Bay,1,2,Columbus,Tampa Bay
+2019020864,Vancouver,Nashville,6,2,Vancouver,Vancouver
+2019020865,San Jose,Calgary,2,6,San Jose,Calgary
+2019020866,Buffalo,Detroit,3,2,Buffalo,Buffalo
+2019020867,Toronto,Arizona,3,2,Arizona,Toronto
+2019020868,New Jersey,Florida,3,5,Florida,Florida
+2019020869,NY Islanders,Philadelphia,5,3,Philadelphia,NY Islanders
+2019020870,Pittsburgh,Tampa Bay,1,2,Tampa Bay,Tampa Bay
+2019020871,Minnesota,Vegas,4,0,Minnesota,Minnesota
+2019020872,Winnipeg,NY Rangers,1,4,NY Rangers,NY Rangers
+2019020873,Dallas,Carolina,4,1,Carolina,Dallas
+2019020874,Colorado,Ottawa,3,0,Colorado,Colorado
+2019020875,Edmonton,Chicago,5,3,Edmonton,Edmonton
+2019020866,Buffalo,Detroit,3,2,Buffalo,Buffalo
+2019020867,Toronto,Arizona,3,2,Arizona,Toronto
+2019020868,New Jersey,Florida,3,5,Florida,Florida
+2019020869,NY Islanders,Philadelphia,5,3,Philadelphia,NY Islanders
+2019020870,Pittsburgh,Tampa Bay,1,2,Tampa Bay,Tampa Bay
+2019020871,Minnesota,Vegas,4,0,Minnesota,Minnesota
+2019020872,Winnipeg,NY Rangers,1,4,NY Rangers,NY Rangers
+2019020873,Dallas,Carolina,4,1,Carolina,Dallas
+2019020874,Colorado,Ottawa,3,0,Colorado,Colorado
+2019020875,Edmonton,Chicago,5,3,Edmonton,Edmonton
+2019020877,Boston,Montreal,4,1,Boston,Boston
+2019020878,Los Angeles,Calgary,5,3,Calgary,Los Angeles
+2019020879,Vancouver,Chicago,3,0,Vancouver,Vancouver
+2019020877,Boston,Montreal,4,1,Boston,Boston
+2019020878,Los Angeles,Calgary,5,3,Calgary,Los Angeles
+2019020879,Vancouver,Chicago,3,0,Vancouver,Vancouver
+2019020880,Buffalo,Columbus,4,3,Columbus,Buffalo
+2019020881,Toronto,Dallas,2,3,Dallas,Dallas
+2019020882,Tampa Bay,Edmonton,3,1,Tampa Bay,Tampa Bay
+2019020883,Florida,Philadelphia,2,6,Philadelphia,Philadelphia
+2019020884,New Jersey,Detroit,4,1,Detroit,New Jersey
+2019020885,Ottawa,Arizona,3,2,Ottawa,Ottawa
+2019020886,Nashville,NY Islanders,5,0,Nashville,Nashville
+2019020887,Minnesota,NY Rangers,3,4,Minnesota,NY Rangers
+2019020888,Colorado,Washington,2,3,Washington,Washington
+2019020889,Vegas,St Louis,6,5,St Louis,Vegas
+2019020890,Anaheim,Calgary,0,6,Calgary,Calgary
+2019020880,Buffalo,Columbus,4,3,Columbus,Buffalo
+2019020881,Toronto,Dallas,2,3,Dallas,Dallas
+2019020882,Tampa Bay,Edmonton,3,1,Tampa Bay,Tampa Bay
+2019020883,Florida,Philadelphia,2,6,Philadelphia,Philadelphia
+2019020884,New Jersey,Detroit,4,1,Detroit,New Jersey
+2019020885,Ottawa,Arizona,3,2,Ottawa,Ottawa
+2019020886,Nashville,NY Islanders,5,0,Nashville,Nashville
+2019020887,Minnesota,NY Rangers,3,4,Minnesota,NY Rangers
+2019020888,Colorado,Washington,2,3,Washington,Washington
+2019020889,Vegas,St Louis,6,5,St Louis,Vegas
+2019020890,Anaheim,Calgary,0,6,Calgary,Calgary
+2019020893,Winnipeg,San Jose,2,3,Winnipeg,San Jose
+2019020891,Pittsburgh,Montreal,4,1,Pittsburgh,Pittsburgh
+2019020892,Columbus,NY Rangers,1,3,Columbus,NY Rangers
+2019020894,Carolina,New Jersey,5,2,Carolina,Carolina
+2019020893,Winnipeg,San Jose,2,3,Winnipeg,San Jose
+2019020891,Pittsburgh,Montreal,4,1,Pittsburgh,Pittsburgh
+2019020892,Columbus,NY Rangers,1,3,Columbus,NY Rangers
+2019020894,Carolina,New Jersey,5,2,Carolina,Carolina
+2019020895,Boston,Detroit,4,1,Boston,Boston
+2019020896,St Louis,Nashville,3,4,St Louis,Nashville
+2019020897,Tampa Bay,Philadelphia,5,3,Tampa Bay,Tampa Bay
+2019020898,Florida,Edmonton,1,4,Edmonton,Edmonton
+2019020899,Minnesota,San Jose,0,2,San Jose,San Jose
+2019020900,Montreal,Dallas,3,4,Montreal,Dallas
+2019020901,Ottawa,Toronto,2,4,Toronto,Toronto
+2019020902,Colorado,Los Angeles,1,3,Colorado,Los Angeles
+2019020903,Calgary,Chicago,4,8,Calgary,Chicago
+2019020904,Arizona,Washington,3,1,Arizona,Arizona
+2019020905,Vegas,NY Islanders,1,0,Vegas,Vegas
+2019020895,Boston,Detroit,4,1,Boston,Boston
+2019020896,St Louis,Nashville,3,4,St Louis,Nashville
+2019020897,Tampa Bay,Philadelphia,5,3,Tampa Bay,Tampa Bay
+2019020898,Florida,Edmonton,1,4,Edmonton,Edmonton
+2019020899,Minnesota,San Jose,0,2,San Jose,San Jose
+2019020900,Montreal,Dallas,3,4,Montreal,Dallas
+2019020901,Ottawa,Toronto,2,4,Toronto,Toronto
+2019020902,Colorado,Los Angeles,1,3,Colorado,Los Angeles
+2019020903,Calgary,Chicago,4,8,Calgary,Chicago
+2019020904,Arizona,Washington,3,1,Arizona,Arizona
+2019020905,Vegas,NY Islanders,1,0,Vegas,Vegas
+2019020906,Pittsburgh,Detroit,5,1,Pittsburgh,Pittsburgh
+2019020907,NY Rangers,Boston,1,3,Boston,Boston
+2019020908,Carolina,Edmonton,3,4,Carolina,Edmonton
+2019020909,Vancouver,Anaheim,1,5,Anaheim,Anaheim
+2019020912,Nashville,St Louis,2,1,Nashville,Nashville
+2019020910,Ottawa,Dallas,4,3,Ottawa,Ottawa
+2019020911,New Jersey,Columbus,4,3,New Jersey,New Jersey
+2019020913,Buffalo,Toronto,5,2,Buffalo,Buffalo
+2019020914,Winnipeg,Chicago,3,2,Winnipeg,Winnipeg
+2019020906,Pittsburgh,Detroit,5,1,Pittsburgh,Pittsburgh
+2019020907,NY Rangers,Boston,1,3,Boston,Boston
+2019020908,Carolina,Edmonton,3,4,Carolina,Edmonton
+2019020909,Vancouver,Anaheim,1,5,Anaheim,Anaheim
+2019020912,Nashville,St Louis,2,1,Nashville,Nashville
+2019020910,Ottawa,Dallas,4,3,Ottawa,Ottawa
+2019020911,New Jersey,Columbus,4,3,New Jersey,New Jersey
+2019020913,Buffalo,Toronto,5,2,Buffalo,Buffalo
+2019020914,Winnipeg,Chicago,3,2,Winnipeg,Winnipeg
+2019020917,San Jose,Florida,3,5,Florida,Florida
+2019020915,Calgary,Anaheim,6,4,Anaheim,Calgary
+2019020916,Arizona,NY Islanders,2,1,Arizona,Arizona
+2019020918,Vegas,Washington,3,2,Vegas,Vegas
+2019020919,Colorado,Tampa Bay,3,4,Tampa Bay,Tampa Bay
+2019020917,San Jose,Florida,3,5,Florida,Florida
+2019020915,Calgary,Anaheim,6,4,Anaheim,Calgary
+2019020916,Arizona,NY Islanders,2,1,Arizona,Arizona
+2019020918,Vegas,Washington,3,2,Vegas,Vegas
+2019020919,Colorado,Tampa Bay,3,4,Tampa Bay,Tampa Bay
+2019020920,Philadelphia,Columbus,5,1,Philadelphia,Philadelphia
+2019020921,Pittsburgh,Toronto,5,2,Pittsburgh,Pittsburgh
+2019020922,Ottawa,Buffalo,7,4,Buffalo,Ottawa
+2019020923,Detroit,Montreal,4,3,Montreal,Detroit
+2019020924,St Louis,New Jersey,3,0,St Louis,St Louis
+2019020925,Nashville,Carolina,1,4,Nashville,Carolina
+2019020926,Winnipeg,Los Angeles,6,3,Los Angeles,Winnipeg
+2019020920,Philadelphia,Columbus,5,1,Philadelphia,Philadelphia
+2019020921,Pittsburgh,Toronto,5,2,Pittsburgh,Pittsburgh
+2019020922,Ottawa,Buffalo,7,4,Buffalo,Ottawa
+2019020923,Detroit,Montreal,4,3,Montreal,Detroit
+2019020924,St Louis,New Jersey,3,0,St Louis,St Louis
+2019020925,Nashville,Carolina,1,4,Nashville,Carolina
+2019020926,Winnipeg,Los Angeles,6,3,Los Angeles,Winnipeg
+2019020927,Chicago,NY Rangers,3,6,Chicago,NY Rangers
+2019020929,Edmonton,Boston,1,2,Edmonton,Boston
+2019020928,Dallas,Arizona,3,2,Dallas,Dallas
+2019020931,Anaheim,Florida,1,4,Florida,Florida
+2019020930,Colorado,NY Islanders,3,1,Colorado,Colorado
+2019020932,Vancouver,Minnesota,3,4,Minnesota,Minnesota
+2019020927,Chicago,NY Rangers,3,6,Chicago,NY Rangers
+2019020929,Edmonton,Boston,1,2,Edmonton,Boston
+2019020928,Dallas,Arizona,3,2,Dallas,Dallas
+2019020931,Anaheim,Florida,1,4,Florida,Florida
+2019020930,Colorado,NY Islanders,3,1,Colorado,Colorado
+2019020932,Vancouver,Minnesota,3,4,Minnesota,Minnesota
+2019020933,Toronto,Pittsburgh,4,0,Toronto,Toronto
+2019020934,New Jersey,San Jose,2,1,New Jersey,New Jersey
+2019020935,Washington,Montreal,3,4,Washington,Montreal
+2019020936,Columbus,Philadelphia,3,4,Columbus,Philadelphia
+2019020937,Ottawa,Winnipeg,1,5,Winnipeg,Winnipeg
+2019020938,St Louis,Arizona,1,0,St Louis,St Louis
+2019020939,Vegas,Tampa Bay,5,3,Vegas,Vegas
+2019020940,Los Angeles,Florida,5,4,Florida,Los Angeles
+2019020933,Toronto,Pittsburgh,4,0,Toronto,Toronto
+2019020934,New Jersey,San Jose,2,1,New Jersey,New Jersey
+2019020935,Washington,Montreal,3,4,Washington,Montreal
+2019020936,Columbus,Philadelphia,3,4,Columbus,Philadelphia
+2019020937,Ottawa,Winnipeg,1,5,Winnipeg,Winnipeg
+2019020938,St Louis,Arizona,1,0,St Louis,St Louis
+2019020939,Vegas,Tampa Bay,5,3,Vegas,Vegas
+2019020940,Los Angeles,Florida,5,4,Florida,Los Angeles
+2019020942,Carolina,NY Rangers,2,5,NY Rangers,NY Rangers
+2019020941,NY Islanders,Detroit,4,1,NY Islanders,NY Islanders
+2019020943,Chicago,Nashville,2,1,Nashville,Chicago
+2019020944,Dallas,St Louis,1,5,St Louis,St Louis
+2019020945,Calgary,Boston,3,4,Boston,Boston
+2019020946,Edmonton,Minnesota,3,5,Minnesota,Minnesota
+2019020947,Anaheim,Colorado,0,1,Colorado,Colorado
+2019020942,Carolina,NY Rangers,2,5,NY Rangers,NY Rangers
+2019020941,NY Islanders,Detroit,4,1,NY Islanders,NY Islanders
+2019020943,Chicago,Nashville,2,1,Nashville,Chicago
+2019020944,Dallas,St Louis,1,5,St Louis,St Louis
+2019020945,Calgary,Boston,3,4,Boston,Boston
+2019020946,Edmonton,Minnesota,3,5,Minnesota,Minnesota
+2019020947,Anaheim,Colorado,0,1,Colorado,Colorado
+2019020948,New Jersey,Washington,3,2,New Jersey,New Jersey
+2019020949,Philadelphia,Winnipeg,4,2,Philadelphia,Philadelphia
+2019020950,Pittsburgh,Buffalo,2,5,Pittsburgh,Buffalo
+2019020951,Toronto,Carolina,3,6,Toronto,Carolina
+2019020952,Ottawa,Montreal,0,3,Montreal,Montreal
+2019020953,NY Rangers,San Jose,3,2,San Jose,NY Rangers
+2019020955,Arizona,Tampa Bay,7,3,Arizona,Arizona
+2019020954,Nashville,Columbus,4,3,Columbus,Nashville
+2019020956,Vancouver,Boston,9,3,Vancouver,Vancouver
+2019020957,Vegas,Florida,5,3,Florida,Vegas
+2019020958,Los Angeles,Colorado,1,2,Colorado,Colorado
+2019020948,New Jersey,Washington,3,2,New Jersey,New Jersey
+2019020949,Philadelphia,Winnipeg,4,2,Philadelphia,Philadelphia
+2019020950,Pittsburgh,Buffalo,2,5,Pittsburgh,Buffalo
+2019020951,Toronto,Carolina,3,6,Toronto,Carolina
+2019020952,Ottawa,Montreal,0,3,Montreal,Montreal
+2019020953,NY Rangers,San Jose,3,2,San Jose,NY Rangers
+2019020955,Arizona,Tampa Bay,7,3,Arizona,Arizona
+2019020954,Nashville,Columbus,4,3,Columbus,Nashville
+2019020956,Vancouver,Boston,9,3,Vancouver,Vancouver
+2019020957,Vegas,Florida,5,3,Florida,Vegas
+2019020958,Los Angeles,Colorado,1,2,Colorado,Colorado
+2019020959,Washington,Pittsburgh,5,3,Pittsburgh,Washington
+2019020961,Dallas,Chicago,2,1,Chicago,Dallas
+2019020960,Buffalo,Winnipeg,2,1,Buffalo,Buffalo
+2019020962,NY Islanders,San Jose,4,1,NY Islanders,NY Islanders
+2019020963,Detroit,Calgary,2,4,Calgary,Calgary
+2019020964,Minnesota,St Louis,1,4,St Louis,St Louis
+2019020965,Anaheim,Vegas,5,6,Anaheim,Vegas
+2019020966,Los Angeles,Edmonton,2,4,Edmonton,Edmonton
+2019020959,Washington,Pittsburgh,5,3,Pittsburgh,Washington
+2019020961,Dallas,Chicago,2,1,Chicago,Dallas
+2019020960,Buffalo,Winnipeg,2,1,Buffalo,Buffalo
+2019020962,NY Islanders,San Jose,4,1,NY Islanders,NY Islanders
+2019020963,Detroit,Calgary,2,4,Calgary,Calgary
+2019020964,Minnesota,St Louis,1,4,St Louis,St Louis
+2019020965,Anaheim,Vegas,5,6,Anaheim,Vegas
+2019020966,Los Angeles,Edmonton,2,4,Edmonton,Edmonton
+2019020967,Columbus,Ottawa,4,3,Ottawa,Columbus
+2019020967,Columbus,Ottawa,4,3,Ottawa,Columbus
+2019020968,Boston,Calgary,2,5,Boston,Calgary
+2019020969,Montreal,Vancouver,3,4,Vancouver,Vancouver
+2019020970,Tampa Bay,Toronto,3,4,Tampa Bay,Toronto
+2019020971,NY Islanders,NY Rangers,3,4,NY Rangers,NY Rangers
+2019020972,Philadelphia,San Jose,4,2,Philadelphia,Philadelphia
+2019020973,Washington,Winnipeg,4,3,Washington,Washington
+2019020974,Carolina,Dallas,1,4,Carolina,Dallas
+2019020975,Detroit,New Jersey,1,4,New Jersey,New Jersey
+2019020976,St Louis,Chicago,6,5,St Louis,St Louis
+2019020977,Nashville,Ottawa,3,2,Nashville,Nashville
+2019020978,Minnesota,Columbus,5,4,Minnesota,Minnesota
+2019020979,Arizona,Florida,1,2,Florida,Florida
+2019020980,Anaheim,Edmonton,4,3,Edmonton,Anaheim
+2019020968,Boston,Calgary,2,5,Boston,Calgary
+2019020969,Montreal,Vancouver,3,4,Vancouver,Vancouver
+2019020970,Tampa Bay,Toronto,3,4,Tampa Bay,Toronto
+2019020971,NY Islanders,NY Rangers,3,4,NY Rangers,NY Rangers
+2019020972,Philadelphia,San Jose,4,2,Philadelphia,Philadelphia
+2019020973,Washington,Winnipeg,4,3,Washington,Washington
+2019020974,Carolina,Dallas,1,4,Carolina,Dallas
+2019020975,Detroit,New Jersey,1,4,New Jersey,New Jersey
+2019020976,St Louis,Chicago,6,5,St Louis,St Louis
+2019020977,Nashville,Ottawa,3,2,Nashville,Nashville
+2019020978,Minnesota,Columbus,5,4,Minnesota,Minnesota
+2019020979,Arizona,Florida,1,2,Florida,Florida
+2019020980,Anaheim,Edmonton,4,3,Edmonton,Anaheim
+2019020981,Colorado,Buffalo,3,2,Colorado,Colorado
+2019020982,Vegas,Edmonton,3,0,Vegas,Vegas
+2019020983,Los Angeles,Pittsburgh,2,1,Los Angeles,Los Angeles
+2019020981,Colorado,Buffalo,3,2,Colorado,Colorado
+2019020982,Vegas,Edmonton,3,0,Vegas,Vegas
+2019020983,Los Angeles,Pittsburgh,2,1,Los Angeles,Los Angeles
+2019020985,Montreal,NY Rangers,2,5,Montreal,NY Rangers
+2019020986,Tampa Bay,Chicago,2,5,Tampa Bay,Chicago
+2019020987,Florida,Toronto,3,5,Florida,Toronto
+2019020984,Boston,Dallas,4,3,Boston,Boston
+2019020988,Ottawa,Vancouver,5,2,Vancouver,Ottawa
+2019020989,Detroit,Minnesota,1,7,Detroit,Minnesota
+2019020990,St Louis,NY Islanders,3,2,St Louis,St Louis
+2019020991,Nashville,Calgary,4,3,Calgary,Nashville
+2019020992,Winnipeg,Washington,3,0,Winnipeg,Winnipeg
+2019020993,San Jose,New Jersey,3,2,San Jose,San Jose
+2019020985,Montreal,NY Rangers,2,5,Montreal,NY Rangers
+2019020986,Tampa Bay,Chicago,2,5,Tampa Bay,Chicago
+2019020987,Florida,Toronto,3,5,Florida,Toronto
+2019020984,Boston,Dallas,4,3,Boston,Boston
+2019020988,Ottawa,Vancouver,5,2,Vancouver,Ottawa
+2019020989,Detroit,Minnesota,1,7,Detroit,Minnesota
+2019020990,St Louis,NY Islanders,3,2,St Louis,St Louis
+2019020991,Nashville,Calgary,4,3,Calgary,Nashville
+2019020992,Winnipeg,Washington,3,0,Winnipeg,Winnipeg
+2019020993,San Jose,New Jersey,3,2,San Jose,San Jose
+2019020994,Philadelphia,NY Rangers,5,2,NY Rangers,Philadelphia
+2019020995,Columbus,Minnesota,0,5,Minnesota,Minnesota
+2019020996,Carolina,Colorado,2,3,Colorado,Colorado
+2019020997,Vegas,Buffalo,4,2,Buffalo,Vegas
+2019020998,Anaheim,Pittsburgh,3,2,Pittsburgh,Anaheim
+2019020994,Philadelphia,NY Rangers,5,2,NY Rangers,Philadelphia
+2019020995,Columbus,Minnesota,0,5,Minnesota,Minnesota
+2019020996,Carolina,Colorado,2,3,Colorado,Colorado
+2019020997,Vegas,Buffalo,4,2,Buffalo,Vegas
+2019020998,Anaheim,Pittsburgh,3,2,Pittsburgh,Anaheim
+2019020999,NY Islanders,Boston,0,4,Boston,Boston
+2019021001,Los Angeles,New Jersey,2,1,Los Angeles,Los Angeles
+2019021000,Tampa Bay,Calgary,4,3,Tampa Bay,Tampa Bay
+2019021002,Florida,Chicago,2,3,Chicago,Chicago
+2019021007,Nashville,Colorado,2,3,Colorado,Colorado
+2019021003,Toronto,Vancouver,4,2,Toronto,Toronto
+2019021004,Montreal,Carolina,4,3,Montreal,Montreal
+2019021005,Ottawa,Detroit,4,3,Detroit,Ottawa
+2019021008,Arizona,Buffalo,5,2,Arizona,Arizona
+2019021006,St Louis,Dallas,4,3,St Louis,St Louis
+2019021009,Edmonton,Winnipeg,3,2,Winnipeg,Edmonton
+2019021010,San Jose,Pittsburgh,5,0,San Jose,San Jose
+2019020999,NY Islanders,Boston,0,4,Boston,Boston
+2019021001,Los Angeles,New Jersey,2,1,Los Angeles,Los Angeles
+2019021000,Tampa Bay,Calgary,4,3,Tampa Bay,Tampa Bay
+2019021002,Florida,Chicago,2,3,Chicago,Chicago
+2019021007,Nashville,Colorado,2,3,Colorado,Colorado
+2019021003,Toronto,Vancouver,4,2,Toronto,Toronto
+2019021004,Montreal,Carolina,4,3,Montreal,Montreal
+2019021005,Ottawa,Detroit,4,3,Detroit,Ottawa
+2019021008,Arizona,Buffalo,5,2,Arizona,Arizona
+2019021006,St Louis,Dallas,4,3,St Louis,St Louis
+2019021009,Edmonton,Winnipeg,3,2,Winnipeg,Edmonton
+2019021010,San Jose,Pittsburgh,5,0,San Jose,San Jose
+2019021011,NY Rangers,Philadelphia,3,5,Philadelphia,Philadelphia
+2019021012,Florida,Calgary,0,3,Calgary,Calgary
+2019021013,Columbus,Vancouver,5,3,Vancouver,Columbus
+2019021015,Anaheim,New Jersey,0,3,New Jersey,New Jersey
+2019021014,Minnesota,Washington,3,4,Washington,Washington
+2019021016,Vegas,Los Angeles,1,4,Los Angeles,Los Angeles
+2019021011,NY Rangers,Philadelphia,3,5,Philadelphia,Philadelphia
+2019021012,Florida,Calgary,0,3,Calgary,Calgary
+2019021013,Columbus,Vancouver,5,3,Vancouver,Columbus
+2019021015,Anaheim,New Jersey,0,3,New Jersey,New Jersey
+2019021014,Minnesota,Washington,3,4,Washington,Washington
+2019021016,Vegas,Los Angeles,1,4,Los Angeles,Los Angeles
+2019021017,Detroit,Colorado,1,2,Colorado,Colorado
+2019021018,Nashville,Edmonton,3,8,Nashville,Edmonton
+2019021017,Detroit,Colorado,1,2,Colorado,Colorado
+2019021018,Nashville,Edmonton,3,8,Nashville,Edmonton
+2019021020,NY Islanders,Montreal,2,6,Montreal,Montreal
+2019021021,NY Rangers,St Louis,1,3,St Louis,St Louis
+2019021022,Pittsburgh,Ottawa,7,3,Pittsburgh,Pittsburgh
+2019021019,Tampa Bay,Boston,1,2,Boston,Boston
+2019021023,Minnesota,Nashville,3,1,Minnesota,Minnesota
+2019021024,Winnipeg,Buffalo,3,1,Winnipeg,Winnipeg
+2019021025,Chicago,Anaheim,6,2,Chicago,Chicago
+2019021026,Dallas,Edmonton,1,2,Edmonton,Edmonton
+2019021027,Vegas,New Jersey,3,0,Vegas,Vegas
+2019021028,San Jose,Toronto,5,2,Toronto,San Jose
+2019021020,NY Islanders,Montreal,2,6,Montreal,Montreal
+2019021021,NY Rangers,St Louis,1,3,St Louis,St Louis
+2019021022,Pittsburgh,Ottawa,7,3,Pittsburgh,Pittsburgh
+2019021019,Tampa Bay,Boston,1,2,Boston,Boston
+2019021023,Minnesota,Nashville,3,1,Minnesota,Minnesota
+2019021024,Winnipeg,Buffalo,3,1,Winnipeg,Winnipeg
+2019021025,Chicago,Anaheim,6,2,Chicago,Chicago
+2019021026,Dallas,Edmonton,1,2,Edmonton,Edmonton
+2019021027,Vegas,New Jersey,3,0,Vegas,Vegas
+2019021028,San Jose,Toronto,5,2,Toronto,San Jose
+2019021029,Washington,Philadelphia,2,5,Philadelphia,Philadelphia
+2019021030,Calgary,Columbus,3,2,Calgary,Calgary
+2019021031,Colorado,Anaheim,3,4,Anaheim,Anaheim
+2019021032,Vancouver,Arizona,2,4,Vancouver,Arizona
+2019021029,Washington,Philadelphia,2,5,Philadelphia,Philadelphia
+2019021030,Calgary,Columbus,3,2,Calgary,Calgary
+2019021031,Colorado,Anaheim,3,4,Anaheim,Anaheim
+2019021032,Vancouver,Arizona,2,4,Vancouver,Arizona
+2019021033,Buffalo,Pittsburgh,2,4,Pittsburgh,Pittsburgh
+2019021034,Tampa Bay,Montreal,4,0,Tampa Bay,Tampa Bay
+2019021035,Florida,Boston,1,2,Florida,Boston
+2019021036,NY Rangers,Washington,6,5,NY Rangers,NY Rangers
+2019021037,Philadelphia,Carolina,4,1,Philadelphia,Philadelphia
+2019021038,Ottawa,NY Islanders,4,3,NY Islanders,Ottawa
+2019021039,Nashville,Dallas,2,0,Nashville,Nashville
+2019021040,Chicago,Edmonton,4,3,Chicago,Chicago
+2019021041,Los Angeles,Toronto,1,0,Los Angeles,Los Angeles
+2019021042,San Jose,Minnesota,2,3,Minnesota,Minnesota
+2019021033,Buffalo,Pittsburgh,2,4,Pittsburgh,Pittsburgh
+2019021034,Tampa Bay,Montreal,4,0,Tampa Bay,Tampa Bay
+2019021035,Florida,Boston,1,2,Florida,Boston
+2019021036,NY Rangers,Washington,6,5,NY Rangers,NY Rangers
+2019021037,Philadelphia,Carolina,4,1,Philadelphia,Philadelphia
+2019021038,Ottawa,NY Islanders,4,3,NY Islanders,Ottawa
+2019021039,Nashville,Dallas,2,0,Nashville,Nashville
+2019021040,Chicago,Edmonton,4,3,Chicago,Chicago
+2019021041,Los Angeles,Toronto,1,0,Los Angeles,Los Angeles
+2019021042,San Jose,Minnesota,2,3,Minnesota,Minnesota
+2019021043,New Jersey,St Louis,4,2,New Jersey,New Jersey
+2019021044,Detroit,Chicago,2,1,Detroit,Detroit
+2019021045,Winnipeg,Vegas,4,0,Winnipeg,Winnipeg
+2019021046,Calgary,Arizona,3,2,Calgary,Calgary
+2019021047,Vancouver,Colorado,6,3,Vancouver,Vancouver
+2019021048,Anaheim,Toronto,2,1,Anaheim,Anaheim
+2019021043,New Jersey,St Louis,4,2,New Jersey,New Jersey
+2019021044,Detroit,Chicago,2,1,Detroit,Detroit
+2019021045,Winnipeg,Vegas,4,0,Winnipeg,Winnipeg
+2019021046,Calgary,Arizona,3,2,Calgary,Calgary
+2019021047,Vancouver,Colorado,6,3,Vancouver,Vancouver
+2019021048,Anaheim,Toronto,2,1,Anaheim,Anaheim
+2019021049,NY Islanders,Carolina,2,3,NY Islanders,Carolina
+2019021050,Pittsburgh,Washington,2,5,Washington,Washington
+2019021051,Dallas,Nashville,0,1,Nashville,Nashville
+2019021052,Los Angeles,Minnesota,7,3,Minnesota,Los Angeles
+2019021057,San Jose,Ottawa,1,2,San Jose,Ottawa
+2019021053,Boston,Tampa Bay,3,5,Tampa Bay,Tampa Bay
+2019021054,Florida,Montreal,4,1,Florida,Florida
+2019021055,NY Rangers,New Jersey,4,6,New Jersey,New Jersey
+2019021056,Philadelphia,Buffalo,3,1,Philadelphia,Philadelphia
+2019021058,Edmonton,Columbus,4,1,Edmonton,Edmonton
+2019021049,NY Islanders,Carolina,2,3,NY Islanders,Carolina
+2019021050,Pittsburgh,Washington,2,5,Washington,Washington
+2019021051,Dallas,Nashville,0,1,Nashville,Nashville
+2019021052,Los Angeles,Minnesota,7,3,Minnesota,Los Angeles
+2019021057,San Jose,Ottawa,1,2,San Jose,Ottawa
+2019021053,Boston,Tampa Bay,3,5,Tampa Bay,Tampa Bay
+2019021054,Florida,Montreal,4,1,Florida,Florida
+2019021055,NY Rangers,New Jersey,4,6,New Jersey,New Jersey
+2019021056,Philadelphia,Buffalo,3,1,Philadelphia,Philadelphia
+2019021058,Edmonton,Columbus,4,1,Edmonton,Edmonton
+2019021059,Pittsburgh,Carolina,2,6,Carolina,Carolina
+2019021060,Detroit,Tampa Bay,5,4,Tampa Bay,Detroit
+2019021062,Calgary,Vegas,3,5,Vegas,Vegas
+2019021061,Chicago,St Louis,0,2,St Louis,St Louis
+2019021063,Anaheim,Minnesota,4,5,Anaheim,Minnesota
+2019021064,Vancouver,Columbus,1,2,Columbus,Columbus
+2019021065,San Jose,Colorado,3,4,Colorado,Colorado
+2019021059,Pittsburgh,Carolina,2,6,Carolina,Carolina
+2019021060,Detroit,Tampa Bay,5,4,Tampa Bay,Detroit
+2019021062,Calgary,Vegas,3,5,Vegas,Vegas
+2019021061,Chicago,St Louis,0,2,St Louis,St Louis
+2019021063,Anaheim,Minnesota,4,5,Anaheim,Minnesota
+2019021064,Vancouver,Columbus,1,2,Columbus,Columbus
+2019021065,San Jose,Colorado,3,4,Colorado,Colorado
+2019021066,Buffalo,Washington,3,2,Buffalo,Buffalo
+2019021067,Winnipeg,Arizona,4,2,Arizona,Winnipeg
+2019021075,St Louis,Florida,1,2,St Louis,Florida
+2019021068,Edmonton,Vegas,2,3,Vegas,Vegas
+2019021069,Los Angeles,Colorado,3,1,Colorado,Los Angeles
+2019021066,Buffalo,Washington,3,2,Buffalo,Buffalo
+2019021067,Winnipeg,Arizona,4,2,Arizona,Winnipeg
+2019021075,St Louis,Florida,1,2,St Louis,Florida
+2019021068,Edmonton,Vegas,2,3,Vegas,Vegas
+2019021069,Los Angeles,Colorado,3,1,Colorado,Los Angeles
+2019021070,Toronto,Tampa Bay,2,1,Tampa Bay,Toronto
+2019021071,Montreal,Nashville,2,4,Nashville,Nashville
+2019021072,New Jersey,Pittsburgh,2,5,Pittsburgh,Pittsburgh
+2019021073,Philadelphia,Boston,0,2,Boston,Boston
+2019021074,Detroit,Carolina,2,5,Carolina,Carolina
+2019021076,Dallas,NY Rangers,2,4,NY Rangers,NY Rangers
+2019021077,Vancouver,NY Islanders,5,4,NY Islanders,Vancouver
+2019021078,Anaheim,Ottawa,5,2,Ottawa,Anaheim
+2019021070,Toronto,Tampa Bay,2,1,Tampa Bay,Toronto
+2019021071,Montreal,Nashville,2,4,Nashville,Nashville
+2019021072,New Jersey,Pittsburgh,2,5,Pittsburgh,Pittsburgh
+2019021073,Philadelphia,Boston,0,2,Boston,Boston
+2019021074,Detroit,Carolina,2,5,Carolina,Carolina
+2019021076,Dallas,NY Rangers,2,4,NY Rangers,NY Rangers
+2019021077,Vancouver,NY Islanders,5,4,NY Islanders,Vancouver
+2019021078,Anaheim,Ottawa,5,2,Ottawa,Anaheim
+2019021079,Chicago,San Jose,6,2,Chicago,Chicago
+2019021080,Edmonton,Winnipeg,2,4,Winnipeg,Winnipeg
+2019020876,Anaheim,St Louis,2,4,Anaheim,St Louis
+2019021081,Colorado,NY Rangers,3,2,Colorado,Colorado
+2019021082,Los Angeles,Ottawa,3,2,Ottawa,Los Angeles
+2019021079,Chicago,San Jose,6,2,Chicago,Chicago
+2019021080,Edmonton,Winnipeg,2,4,Winnipeg,Winnipeg
+2019020876,Anaheim,St Louis,2,4,Anaheim,St Louis
+2019021081,Colorado,NY Rangers,3,2,Colorado,Colorado
+2019021082,Los Angeles,Ottawa,3,2,Ottawa,Los Angeles
+2019030001,Boston,Philadelphia,1,4,Philadelphia,Philadelphia
+2019030011,Colorado,St Louis,2,1,Colorado,Colorado
+2019030001,Boston,Philadelphia,1,4,Philadelphia,Philadelphia
+2019030011,Colorado,St Louis,2,1,Colorado,Colorado
+2019030002,Tampa Bay,Washington,3,2,Tampa Bay,Tampa Bay
+2019030012,Vegas,Dallas,5,3,Vegas,Vegas
+2019030002,Tampa Bay,Washington,3,2,Tampa Bay,Tampa Bay
+2019030012,Vegas,Dallas,5,3,Vegas,Vegas
+2019030003,Boston,Tampa Bay,2,3,Boston,Tampa Bay
+2019030013,Dallas,Colorado,0,4,Colorado,Colorado
+2019030003,Boston,Tampa Bay,2,3,Boston,Tampa Bay
+2019030013,Dallas,Colorado,0,4,Colorado,Colorado
+2019030004,Philadelphia,Washington,3,1,Philadelphia,Philadelphia
+2019030014,St Louis,Vegas,4,6,St Louis,Vegas
+2019030004,Philadelphia,Washington,3,1,Philadelphia,Philadelphia
+2019030014,St Louis,Vegas,4,6,St Louis,Vegas
+2019030015,Colorado,Vegas,3,4,Vegas,Vegas
+2019030006,Tampa Bay,Philadelphia,1,4,Tampa Bay,Philadelphia
+2019030015,Colorado,Vegas,3,4,Vegas,Vegas
+2019030006,Tampa Bay,Philadelphia,1,4,Tampa Bay,Philadelphia
+2019030005,Washington,Boston,2,1,Washington,Washington
+2019030016,St Louis,Dallas,1,2,St Louis,Dallas
+2019030005,Washington,Boston,2,1,Washington,Washington
+2019030016,St Louis,Dallas,1,2,St Louis,Dallas
