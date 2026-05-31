@@ -1,4 +1,4 @@
-game_id,Domaci,Hoste,home_goals,away_goals,Prvni_gol_tym,Vitez_zapasu
+game_id,Home,Away,Home_goals,Away_goals,First_goal_team,Winner
 2019020001,Toronto,Ottawa,5,3,Toronto,Toronto
 2019020002,St Louis,Washington,2,3,St Louis,Washington
 2019020003,Edmonton,Vancouver,3,2,Vancouver,Edmonton
