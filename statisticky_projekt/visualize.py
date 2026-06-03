@@ -17,11 +17,11 @@ def visualize_permutation_test(result):
 	sns.histplot(null_distribution_data, bins=60, color='#8CA1A9', stat='count', edgecolor='white')
 
 	# 2. Výpočet kritické hodnoty pro JEDNOSTRANNÝ test (hladina významnosti 5 % zprava)
-	critical_value = np.percentile(null_distribution_data, 95)
+	critical_value = np.percentile(null_distribution_data, 99)
 
 	# 3. Vystínování zamítací oblasti (od kritické hodnoty doprava)
 	plt.axvspan(critical_value, plt.xlim()[1] * 1.2, color='#F3C999', alpha=0.8, 
-			label='zamítací oblast (α = 0.05)')
+			label='zamítací oblast (α = 0.01)')
 
 	# 4. Svislé čáry (Kritická hodnota červeně, naše data tmavě zeleně)
 	plt.axvline(critical_value, color='#D32828', linestyle='-', linewidth=2.5, 
