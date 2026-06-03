@@ -5,5 +5,5 @@ Budu zpracovávat hokejová data z české extraligy, NHL, nebo MS. To upřesní
 
 Nulové hypotézy:
 * Domácí prostředí nemá vliv na počet vstřelených branek.
-* Nezáleží na tom, který z týmů vstřelí první branku zápasu.
+* Výsledek zápasu nezáleží na tom, který z týmů vstřelí první branku.
 * Mezi věkem a průměrným časem stráveným na ledě není lineární vztah.
