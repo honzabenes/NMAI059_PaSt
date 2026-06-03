@@ -2,8 +2,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import numpy as np
 
-# 1. Nastavení hezčího vizuálního stylu (odstraní nudný bílý základ)
-def visualize_permutation_test(result):
+def visualize_permutation_test(result, alpha=0.05):
 	
 	null_distribution_data = result.null_distribution
 	observed_statistic = result.statistic
@@ -17,7 +16,7 @@ def visualize_permutation_test(result):
 	sns.histplot(null_distribution_data, bins=60, color='#8CA1A9', stat='count', edgecolor='white')
 
 	# 2. Výpočet kritické hodnoty pro JEDNOSTRANNÝ test (hladina významnosti 5 % zprava)
-	critical_value = np.percentile(null_distribution_data, 99)
+	critical_value = np.percentile(null_distribution_data, 100 - alpha * 100)
 
 	# 3. Vystínování zamítací oblasti (od kritické hodnoty doprava)
 	plt.axvspan(critical_value, plt.xlim()[1] * 1.2, color='#F3C999', alpha=0.8, 
