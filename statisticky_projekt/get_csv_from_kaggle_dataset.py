@@ -54,15 +54,17 @@ first_goals = first_goals[['game_id', 'team_id_for']].rename(columns={'team_id_f
 df_h1 = pd.merge(games_latest, first_goals, on='game_id', how='left')
 
 # D. Překlad ID na textové názvy týmů pro přehlednost
-df_h1['Domaci'] = df_h1['home_team_id'].map(team_dict)
-df_h1['Hoste'] = df_h1['away_team_id'].map(team_dict)
-df_h1['Prvni_gol_tym'] = df_h1['first_goal_team_id'].map(team_dict)
-df_h1['Vitez_zapasu'] = df_h1['winning_team_id'].map(team_dict)
+df_h1['Home'] = df_h1['home_team_id'].map(team_dict)
+df_h1['Away'] = df_h1['away_team_id'].map(team_dict)
+df_h1['First_goal_team'] = df_h1['first_goal_team_id'].map(team_dict)
+df_h1['Winner'] = df_h1['winning_team_id'].map(team_dict)
 
-# Finální úprava a uložení
-final_csv1 = df_h1[['game_id', 'Domaci', 'Hoste', 'home_goals', 'away_goals', 'Prvni_gol_tym', 'Vitez_zapasu']]
-final_csv1.to_csv('1_hypoteza_zapasove_statistiky.csv', index=False)
-print("-> Soubor '1_hypoteza_zapasove_statistiky.csv' byl vytvořen.")
+# Finální úprava a uložení (odstraněno 'game_id' a upraveny názvy sloupců)
+final_csv1 = df_h1[['Home', 'Away', 'home_goals', 'away_goals', 'First_goal_team', 'Winner']].copy()
+final_csv1.rename(columns={'home_goals': 'Goals_home', 'away_goals': 'Goals_away'}, inplace=True)
+
+final_csv1.to_csv('zapasove_statistiky.csv', index=False)
+print("-> Soubor 'zapasove_statistiky.csv' byl vytvořen.")
 
 
 # =====================================================================
@@ -76,22 +78,22 @@ stats_latest = stats[stats['game_id'].isin(game_ids)].copy()
 
 # Výpočet průměrného času na ledě (v datasetu je v sekundách, převedeme na minuty)
 player_toi = stats_latest.groupby('player_id')['timeOnIce'].mean().reset_index()
-player_toi['Prumerny_cas_na_lede_min'] = round(player_toi['timeOnIce'] / 60, 2)
+player_toi['Avg_ice_time'] = round(player_toi['timeOnIce'] / 60, 2)
 
 # B. Informace o hráčích (věk a jméno)
 players = pd.read_csv('player_info.csv', usecols=['player_id', 'firstName', 'lastName', 'birthDate'])
-players['Hrac'] = players['firstName'] + ' ' + players['lastName']
+players['Player'] = players['firstName'] + ' ' + players['lastName']
 
 # Výpočet věku: Rok začátku sezóny (např. pro 20192020 je to 2019) minus rok narození
 season_start_year = int(str(latest_season)[:4])
 players['birth_year'] = pd.to_datetime(players['birthDate'], errors='coerce').dt.year
-players['Vek'] = season_start_year - players['birth_year']
+players['Age'] = season_start_year - players['birth_year']
 
 # C. Spojení a uložení
 df_h2 = pd.merge(player_toi, players, on='player_id', how='inner')
-final_csv2 = df_h2[['Hrac', 'Vek', 'Prumerny_cas_na_lede_min']].dropna()
+final_csv2 = df_h2[['Player', 'Age', 'Avg_ice_time']].dropna()
 
-final_csv2.to_csv('2_hypoteza_hracske_statistiky.csv', index=False)
-print("-> Soubor '2_hypoteza_hracske_statistiky.csv' byl vytvořen.")
+final_csv2.to_csv('hracske_statistiky.csv', index=False)
+print("-> Soubor 'hracske_statistiky.csv' byl vytvořen.")
 
 print("Vše hotovo! Obě CSV máš připravená pro svůj statistický projekt.")
